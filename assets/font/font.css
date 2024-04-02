@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'NotoSansTCThin';
+  src: url('../static/NotoSansTC-Thin.ttf');
+  font-weight: 100;
+}
+@font-face {
+  font-family: 'NotoSansTCLight';
+  src: url('../static/NotoSansTC-Light.ttf');
+  font-weight: 300;
+}
+@font-face {
+  font-family: 'Noto Sans TC';
+  src: url('../static/NotoSansTC-Regular.ttf');
+  font-weight: 400;
+}
+@font-face {
+  font-family: 'NotoSansTCMedium';
+  src: url('../static/NotoSansTC-Medium.ttf');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'NotoSansTCBold';
+  src: url('../static/NotoSansTC-Bold.ttf');
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'NotoSansTCBlack';
+  src: url('../static/NotoSansTC-Black.ttf');
+  font-weight: 900;
+}
+@font-face {
+  font-family: 'Elliot Pro-Regular';
+  src: url('../static/FS Elliot Pro-Regular.otf');
+}
+
+@font-face {
+  font-family: 'Elliot Pro-Bold';
+  src: url('../static/FSElliotPro-Bold.woff');
+}
+
+@font-face {
+  font-family: 'Elliot Pro-Light';
+  src: url('../static/FSElliotPro-Light.woff');
+}
+
+@font-face {
+  font-family: 'Fselliotpro';
+  src: url('../static/FSElliotPro.woff');
+}

@@ -1,0 +1,33 @@
+@font-face {
+  font-family: "iconfont"; /* Project id  */
+  src: url('/assets/font/iconfont.ttf') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guojihua:before {
+  content: "\e6e4";
+}
+
+.icon-YouTube:before {
+  content: "\e608";
+}
+
+.icon-instagram:before {
+  content: "\e67e";
+}
+
+.icon-facebook:before {
+  content: "\e64e";
+}
+
+.icon-ins:before {
+  content: "\e664";
+}
+
