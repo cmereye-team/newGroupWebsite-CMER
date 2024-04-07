@@ -11,10 +11,10 @@ const announcementsEn: any = reactive([
 async function fetchData() {
   await fetch("https:///admin.hkcmereye.com/api.php/list/15")
     .then((response) => response.json())
-    .then((data) => {
+    .then((res) => {
       // 清空数组
       announcementsEn.splice(0, announcementsEn.length);
-      arr.value = data.data;
+      arr.value = res.data;
 
       arr.value.map((item: any) => {
         announcementsEn.push({
@@ -24,10 +24,7 @@ async function fetchData() {
           ext_date: item.ext_date.split(" ")[0],
         });
       });
-      sessionStorage.setItem(
-        "announcementsEn",
-        JSON.stringify(announcementsEn)
-      );
+      data.value = announcementsEn;
     })
     .catch((error) => {
       console.error("Error:", error);
@@ -42,14 +39,7 @@ const getCurrentYear = () => {
 };
 
 onMounted(async () => {
-  if (
-    sessionStorage.getItem("announcementsEn") == "" ||
-    sessionStorage.getItem("announcementsEn") == null
-  ) {
-    await fetchData();
-  } else {
-    data.value = JSON.parse(sessionStorage.getItem("announcementsEn") || "");
-  }
+  await fetchData();
   getCurrentYear();
 });
 
@@ -78,20 +68,28 @@ const options = [
   },
 ];
 const clear = async () => {
-  optionsData.value = "Year";
-  data.value = JSON.parse(sessionStorage.getItem("announcementsEn") || "");
+  optionsData.value = "年 份";
+  noData.value = false;
+  fetchData();
+  getCurrentYear();
 };
-const handleChange = (value: any) => {
-  data.value = JSON.parse(sessionStorage.getItem("announcementsEn") || "");
+const noData = ref(false);
+const handleChange = async (value: any) => {
+  await fetchData();
+  todayYear.value = value;
   let selecedItem = data.value.filter((item: any) => {
     let year2: any = item.ext_date.split(" ")[0].split("-")[0];
     if (value === year2) {
-      console.log(item);
-
       return item;
     }
   });
-  data.value = selecedItem;
+  if (selecedItem.length >= 1) {
+    data.value = selecedItem;
+    noData.value = false;
+  } else {
+    noData.value = true;
+    data.value = [];
+  }
 };
 const history = ref(false);
 </script>
@@ -133,6 +131,7 @@ const history = ref(false);
         >
       </div>
     </div>
+    <div class="no-data" v-if="noData"><p>Please view historical data</p></div>
     <div class="news-btn">
       <div @click="history = !history">HISTORICAL DATA</div>
     </div>
@@ -179,15 +178,13 @@ const history = ref(false);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 24px;
     margin-bottom: 40px;
     & > div:nth-child(1) {
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
-      font-size: 16px;
+      font-size: 26px;
       color: #51a8dd;
-      text-decoration: underline;
     }
     & > div:nth-child(2) {
       display: flex;
@@ -202,7 +199,13 @@ const history = ref(false);
       }
     }
   }
-
+  .no-data {
+    margin: 30px auto;
+    & > p {
+      text-align: center;
+      font-size: 24px;
+    }
+  }
   .news-list {
     margin-bottom: 15px;
     display: flex;
@@ -251,6 +254,13 @@ const history = ref(false);
 @media screen and (max-width: 767px) {
   .news {
     padding: 30px 15px;
+  }
+  .no-data {
+    margin: 30px auto;
+    & > p {
+      text-align: center;
+      font-size: 24px;
+    }
   }
   .news-btn {
     display: flex;

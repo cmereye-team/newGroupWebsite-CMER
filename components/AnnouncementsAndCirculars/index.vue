@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+import { el } from "element-plus/es/locale/index.mjs";
+
 let arr = ref([]);
 const announcements: any = reactive([
   {
@@ -8,13 +10,16 @@ const announcements: any = reactive([
     ext_date: "",
   },
 ]);
-async function fetchData() {
+
+let data = ref([]);
+
+const fetchData = async () => {
   await fetch("https:///admin.hkcmereye.com/api.php/list/13")
     .then((response) => response.json())
-    .then((data) => {
+    .then((res) => {
       // 清空数组
       announcements.splice(0, announcements.length);
-      arr.value = data.data;
+      arr.value = res.data;
 
       arr.value.map((item: any) => {
         announcements.push({
@@ -24,13 +29,12 @@ async function fetchData() {
           ext_date: item.ext_date.split(" ")[0],
         });
       });
-      sessionStorage.setItem("announcements", JSON.stringify(announcements));
+      data.value = announcements;
     })
     .catch((error) => {
       console.error("Error:", error);
     });
-}
-
+};
 // 获取当前年
 const todayYear = ref(0);
 const getCurrentYear = () => {
@@ -39,18 +43,10 @@ const getCurrentYear = () => {
 };
 
 onMounted(async () => {
-  if (
-    sessionStorage.getItem("announcements") == "" ||
-    sessionStorage.getItem("announcements") == null
-  ) {
-    await fetchData();
-  } else {
-    data.value = JSON.parse(sessionStorage.getItem("announcements") || "");
-  }
   getCurrentYear();
+  fetchData();
 });
 
-let data = ref([]);
 const optionsData = ref("年 份");
 const options = [
   {
@@ -76,19 +72,27 @@ const options = [
 ];
 const clear = async () => {
   optionsData.value = "年 份";
-  data.value = JSON.parse(sessionStorage.getItem("announcements") || "");
+  noData.value = false;
+  fetchData();
+  getCurrentYear();
 };
-const handleChange = (value: any) => {
-  data.value = JSON.parse(sessionStorage.getItem("announcements") || "");
+const noData = ref(false);
+const handleChange = async (value: any) => {
+  await fetchData();
+  todayYear.value = value;
   let selecedItem = data.value.filter((item: any) => {
     let year2: any = item.ext_date.split(" ")[0].split("-")[0];
     if (value === year2) {
-      console.log(item);
-
       return item;
     }
   });
-  data.value = selecedItem;
+  if (selecedItem.length >= 1) {
+    data.value = selecedItem;
+    noData.value = false;
+  } else {
+    noData.value = true;
+    data.value = [];
+  }
 };
 const history = ref(false);
 </script>
@@ -130,6 +134,9 @@ const history = ref(false);
         >
       </div>
     </div>
+    <div v-if="noData" class="no-data">
+      <p>请查看历史数据</p>
+    </div>
     <div class="news-btn">
       <div @click="history = !history">歷史數據</div>
     </div>
@@ -148,19 +155,26 @@ const history = ref(false);
     max-width: 1140px;
     margin: 100px auto;
   }
+  .no-data {
+    margin: 30px auto;
+    & > p {
+      text-align: center;
+      font-size: 24px;
+    }
+  }
   .news-title {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 24px;
+    // padding-left: 24px;
+
     margin-bottom: 40px;
     & > div:nth-child(1) {
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
-      font-size: 16px;
+      font-size: 26px;
       color: #51a8dd;
-      text-decoration: underline;
     }
     & > div:nth-child(2) {
       display: flex;
@@ -178,24 +192,24 @@ const history = ref(false);
   .news-btn {
     display: flex;
     justify-content: center;
-    &>div {
+    & > div {
       cursor: pointer;
       padding: 5px 12px;
       font-size: 20px;
     }
-    &>div:hover{
+    & > div:hover {
       box-shadow: #51a8dd 1px 1px 1px;
     }
   }
   .news-back {
     display: flex;
     margin-bottom: 30px;
-    &>div {
+    & > div {
       cursor: pointer;
       padding: 5px 12px;
       font-size: 20px;
     }
-    &>div:hover{
+    & > div:hover {
       box-shadow: #51a8dd 1px 1px 1px;
     }
   }
@@ -248,27 +262,34 @@ const history = ref(false);
   .news {
     padding: 30px 15px;
   }
+  .no-data {
+    margin: 30px auto;
+    & > p {
+      text-align: center;
+      font-size: 24px;
+    }
+  }
   .news-btn {
     display: flex;
     justify-content: center;
-    &>div {
+    & > div {
       cursor: pointer;
       padding: 5px 12px;
       font-size: 20px;
     }
-    &>div:hover{
+    & > div:hover {
       box-shadow: #51a8dd 1px 1px 1px;
     }
   }
   .news-back {
     display: flex;
     margin-bottom: 30px;
-    &>div {
+    & > div {
       cursor: pointer;
       padding: 5px 12px;
       font-size: 20px;
     }
-    &>div:hover{
+    & > div:hover {
       box-shadow: #51a8dd 1px 1px 1px;
     }
   }
