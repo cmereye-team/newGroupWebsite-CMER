@@ -285,7 +285,7 @@
   }
 
   .banner_about {
-    height: 60vh;
+    height: 55vh;
     background-size: auto 100%;
   }
 

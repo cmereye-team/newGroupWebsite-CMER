@@ -64,7 +64,7 @@
     background: url("https://static.cmereye.com/imgs/2024/03/699f44b399f589a3.jpg")
       no-repeat;
     width: 100%;
-    height: 60vh;
+    height: 55vh;
     background-size: cover;
     background-position: 70%;
     position: relative;

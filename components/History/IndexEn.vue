@@ -1567,6 +1567,7 @@
         & > td:nth-child(2) {
           flex: 8;
           position: relative;
+          font-family: 'Arial';
           padding: 10px 0;
           padding-left: 1.5rem;
           padding-right: 2rem;

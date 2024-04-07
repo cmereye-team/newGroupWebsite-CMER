@@ -280,16 +280,14 @@ const history = ref(false);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 24px;
     margin-bottom: 40px;
     & > div:nth-child(1) {
       cursor: pointer;
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
-      font-size: 16px;
+      font-size: 22px;
       color: #51a8dd;
-      text-decoration: underline;
     }
     & > div:nth-child(2) {
       display: flex;
