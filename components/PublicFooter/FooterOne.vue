@@ -134,7 +134,6 @@ onMounted(() => {
         alt="logo-footer"
       />
     </div>
-    {{ isPc }}
     <div v-if="isPc">
       <nuxt-link
         v-for="item in language == 'hk'
