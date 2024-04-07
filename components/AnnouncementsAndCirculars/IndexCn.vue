@@ -122,7 +122,7 @@ const history = ref(false);
       </div>
     </div>
   </div>
-  <div v-else class="news-blak">
+  <div v-else class="news">
     <div @click="clear()" class="news-back">
       <div>返回</div>
     </div>
