@@ -5,6 +5,54 @@
   <div class="history-table">
     <tbody>
       <tr data-date="2023">
+        <td>2023-12-12</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2024/01/2023121200658_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>Next Day Disclosure Return</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-12-01</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2024/01/2023120101432_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>Monthly Return of Equity Issuer on Movements in Securities for the month ended 30 November 2023</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-11-17</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2023/11/2023111700877_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>VOLUNATRY ANNOUNCEMENT ON-MARKET REPURCHASE OF SHARES</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-11-16</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2023/11/2023111600542_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>Next Day Disclosure Return</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
         <td>2023-11-15</td>
         <td>
           <a

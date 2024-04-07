@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+import { da } from 'element-plus/es/locale/index.mjs';
+
 let arr = ref([]);
 const newsList: any = reactive([
   {
@@ -11,10 +13,10 @@ const newsList: any = reactive([
 async function fetchData() {
   await fetch("https:///admin.hkcmereye.com/api.php/list/23")
     .then((response) => response.json())
-    .then((data) => {
+    .then((res) => {
       // 清空数组
       newsList.splice(0, newsList.length);
-      arr.value = data.data;
+      arr.value = res.data;
 
       arr.value.map((item: any) => {
         newsList.push({
@@ -24,8 +26,7 @@ async function fetchData() {
           ext_date: item.ext_date.split(" ")[0],
         });
       });
-      sessionStorage.setItem("newsList", JSON.stringify(newsList));
-      console.log(newsList, "P00000000");
+      data.value = newsList;
     })
     .catch((error) => {
       console.error("Error:", error);
@@ -41,14 +42,7 @@ const getCurrentYear = () => {
 
 onMounted(async () => {
   getCurrentYear();
-  if (
-    sessionStorage.getItem("newsList") == "" ||
-    sessionStorage.getItem("newsList") == null
-  ) {
-    await fetchData();
-  } else {
-    data.value = JSON.parse(sessionStorage.getItem("newsList") || "");
-  }
+  await fetchData();
 });
 
 let data = ref([
@@ -188,10 +182,10 @@ const options = [
 ];
 const clear = async () => {
   optionsData.value = "年 份";
-  data.value = JSON.parse(sessionStorage.getItem("newsList") || "");
+  await fetchData();
 };
-const handleChange = (value: any) => {
-  data.value = JSON.parse(sessionStorage.getItem("newsList") || "");
+const handleChange = async (value: any) => {
+  await fetchData()
   let selecedItem = data.value.filter((item: any) => {
     let year2: any = item.ext_date.split(" ")[0].split("-")[0];
     if (value === year2) {
@@ -205,7 +199,7 @@ const handleChange = (value: any) => {
 <template>
   <div class="news">
     <div class="news-title">
-      <div>{{ todayYear }}</div>
+      <div @click="clear">{{ todayYear }}</div>
       <div>
         <client-only>
           <el-select
@@ -252,15 +246,14 @@ const handleChange = (value: any) => {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 24px;
     margin-bottom: 40px;
     & > div:nth-child(1) {
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
-      font-size: 16px;
+      font-size: 26px;
       color: #51a8dd;
-      text-decoration: underline;
+      cursor: pointer;
     }
     & > div:nth-child(2) {
       display: flex;

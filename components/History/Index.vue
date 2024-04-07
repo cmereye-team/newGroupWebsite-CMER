@@ -5,6 +5,54 @@
   <div class="history-table">
     <tbody>
       <tr data-date="2023">
+        <td>2023-12-12</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2024/01/2023121200658_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>翌日披露報表</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-12-01</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2024/01/2023120101432_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>截至二零二三年十一月三十日止股份發行人的證券變動月報表</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-11-17</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2023/11/2023111700877_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>自願公告 從市場購回股份</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
+        <td>2023-11-16</td>
+        <td>
+          <a
+            href="https://admin.hkcmereye.comhttps//admin.cmereye.com/wp-content/uploads/2023/11/2023111600542_c.pdf"
+            target="_blank"
+            rel="nofollow"
+            class="table-cell"
+            ><p>翌日披露報表</p></a
+          >
+        </td>
+      </tr>
+      <tr data-date="2023">
         <td>2023-11-15</td>
         <td>
           <a
@@ -1530,7 +1578,7 @@
           flex: 1;
           min-width: 120px;
           padding: 5 0;
-          padding-left: .5rem;
+          padding-left: 0.5rem;
           padding-right: 1rem;
           color: #51a8dd;
           font-weight: 700;
@@ -1543,7 +1591,7 @@
           flex: 8;
           position: relative;
           padding: 10px 0;
-          padding-left: .5rem;
+          padding-left: 0.5rem;
           padding-right: 1.2rem;
         }
       }

@@ -54,29 +54,17 @@ const options = [
     value: "2024",
   },
   {
-    label: "2023",
-    value: "2023",
-  },
-  {
-    label: "2022",
-    value: "2022",
-  },
-  {
-    label: "2021",
-    value: "2021",
-  },
-  {
-    label: "2020",
-    value: "2020",
+    label: "歷史數據",
+    value: "history",
   },
 ];
 const clear = async () => {
   optionsData.value = "年 份";
-  noData.value = false;
+  history.value = false;
   fetchData();
   getCurrentYear();
 };
-const noData = ref(false);
+
 const handleChange = async (value: any) => {
   await fetchData();
   todayYear.value = value;
@@ -88,9 +76,9 @@ const handleChange = async (value: any) => {
   });
   if (selecedItem.length >= 1) {
     data.value = selecedItem;
-    noData.value = false;
+    history.value = false;
   } else {
-    noData.value = true;
+    history.value = true;
     data.value = [];
   }
 };
@@ -100,7 +88,7 @@ const history = ref(false);
 <template>
   <div class="news" v-if="!history">
     <div class="news-title">
-      <div>{{ todayYear }}</div>
+      <div @click="clear()">{{ todayYear }}</div>
       <div>
         <client-only>
           <el-select
@@ -134,15 +122,9 @@ const history = ref(false);
         >
       </div>
     </div>
-    <div v-if="noData" class="no-data">
-      <p>请查看历史数据</p>
-    </div>
-    <div class="news-btn">
-      <div @click="history = !history">歷史數據</div>
-    </div>
   </div>
   <div v-else class="news">
-    <div @click="history = !history" class="news-back">
+    <div @click="clear()" class="news-back">
       <div>返回</div>
     </div>
     <History />
@@ -170,6 +152,7 @@ const history = ref(false);
 
     margin-bottom: 40px;
     & > div:nth-child(1) {
+      cursor: pointer;
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
@@ -300,6 +283,7 @@ const history = ref(false);
     padding-left: 24px;
     margin-bottom: 40px;
     & > div:nth-child(1) {
+      cursor: pointer;
       line-height: 2;
       letter-spacing: 0.1em;
       font-family: "Noto Sans CJK TC", serif;
