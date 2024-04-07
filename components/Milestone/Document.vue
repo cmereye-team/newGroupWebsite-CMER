@@ -1,31 +1,40 @@
 <script setup lang='ts'>
 const historyLine = [
   {
+    year: "2023",
+    context: [
+      {
+        month: "8",
+        content: ["佛山希瑪眼科醫院成立 "],
+      },
+    ],
+  },
+  {
     year: "2022",
     context: [
       {
-        month: "1",
-        content: ["收購香港嘉賓眼科全部股權"],
-      },
-      {
-        month: "2",
-        content: ["完成收購深圳愛康健齒科的控股權"],
-      },
-      {
-        month: "3",
-        content: ["廣州希瑪林順潮眼科醫院開業"],
-      },
-      {
-        month: "6",
-        content: ["深圳希瑪蔚藍診所開業"],
+        month: "9",
+        content: ["將軍澳希瑪眼科中心開業"],
       },
       {
         month: "8",
         content: ["揭陽希瑪林順潮眼科醫院開業"],
       },
       {
-        month: "9",
-        content: ["將軍澳希瑪眼科中心開業"],
+        month: "6",
+        content: ["深圳希瑪蔚藍診所開業"],
+      },
+      {
+        month: "3",
+        content: ["廣州希瑪林順潮眼科醫院開業"],
+      },
+      {
+        month: "2",
+        content: ["完成收購深圳愛康健齒科的控股權"],
+      },
+      {
+        month: "1",
+        content: ["收購香港嘉賓眼科全部股權"],
       },
     ],
   },
@@ -33,12 +42,8 @@ const historyLine = [
     year: "2021",
     context: [
       {
-        month: "3",
-        content: ["惠州希瑪林順潮眼科醫院開業"],
-      },
-      {
-        month: "8",
-        content: ["透過收購設立希瑪中西腫瘤專科中心"],
+        month: "12",
+        content: ["福州希瑪林順潮眼科門診開業"],
       },
       {
         month: "11",
@@ -47,8 +52,12 @@ const historyLine = [
         ],
       },
       {
-        month: "12",
-        content: ["福州希瑪林順潮眼科門診開業"],
+        month: "8",
+        content: ["透過收購設立希瑪中西腫瘤專科中心"],
+      },
+      {
+        month: "3",
+        content: ["惠州希瑪林順潮眼科醫院開業"],
       },
     ],
   },
@@ -56,15 +65,15 @@ const historyLine = [
     year: "2020",
     context: [
       {
-        month: "11",
-        content: ["荃灣希瑪眼科中心開業"],
-      },
-      {
         month: "12",
         content: [
           "珠海希瑪林順潮眼科醫院開業",
           "深圳新安林順潮眼科門診部升級為醫院",
         ],
+      },
+      {
+        month: "11",
+        content: ["荃灣希瑪眼科中心開業"],
       },
     ],
   },
@@ -72,20 +81,21 @@ const historyLine = [
     year: "2019",
     context: [
       {
-        month: "6",
-        content: ["希瑪‧昆明眼科醫院開業"],
-      },
-      {
-        month: "10",
-        content: ["希瑪微笑激光矯視中心開業"],
+        month: "12",
+        content: ["元朗 (第二間) 希瑪眼科中心開業"],
       },
       {
         month: "11",
         content: ["上海希瑪瑞視眼科醫院開業"],
       },
+
       {
-        month: "12",
-        content: ["元朗 (第二間) 希瑪眼科中心開業"],
+        month: "10",
+        content: ["希瑪微笑激光矯視中心開業"],
+      },
+      {
+        month: "6",
+        content: ["希瑪‧昆明眼科醫院開業"],
       },
     ],
   },
@@ -93,16 +103,17 @@ const historyLine = [
     year: "2018",
     context: [
       {
-        month: "1",
-        content: ["北京希瑪林順潮眼科醫院開業", "1月15日成功於聯交所上市"],
+        month: "11",
+        content: ["深圳新安希瑪林順潮眼科門診部開業"],
       },
+
       {
         month: "3",
         content: ["觀塘希瑪眼科中心開業"],
       },
       {
-        month: "11",
-        content: ["深圳新安希瑪林順潮眼科門診部開業"],
+        month: "1",
+        content: ["北京希瑪林順潮眼科醫院開業", "1月15日成功於聯交所上市"],
       },
     ],
   },
@@ -119,12 +130,12 @@ const historyLine = [
     year: "2016",
     context: [
       {
-        month: "1",
-        content: ["元朗希瑪眼科中心開業"],
-      },
-      {
         month: "6",
         content: ["沙田希瑪眼科中心開業"],
+      },
+      {
+        month: "1",
+        content: ["元朗希瑪眼科中心開業"],
       },
     ],
   },

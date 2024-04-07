@@ -84,6 +84,12 @@ const bannerTitle = "公告及通函";
   .announcements-content {
     position: relative;
   }
+  .announcements-link {
+    margin: 20px;
+    &>a {
+      font-size: 24px;
+    }
+  }
   .announcements-content:before {
     position: absolute;
     content: "";

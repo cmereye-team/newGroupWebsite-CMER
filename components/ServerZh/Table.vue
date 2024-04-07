@@ -315,7 +315,8 @@ const open = (item: object) => {
         }
       }
       & > div:nth-child(1) {
-        width: calc((232px / 100%) * 100%);
+        // width: calc((232px / 100%) * 100%);
+        width:  282px;
         min-width: 210px;
         color: #fff;
         color: #707070;
@@ -356,25 +357,26 @@ const open = (item: object) => {
         padding: 0.625vw;
       }
       & > div:nth-child(2) {
-        width: calc((124px / 100%) * 100%);
+        width: 165px;
         min-width: 110px;
       }
       & > div:nth-child(3) {
-        width: calc((660px / 100%) * 100%);
+        width: 780px;
       }
       & > div:nth-child(4) {
         width: calc((199px / 100%) * 100%);
       }
       & > div:nth-child(5) {
-        width: calc((328px / 100%) * 100%);
+        width: 460px;
       }
       & > div:nth-child(6) {
-        width: calc((410px / 100%) * 100%);
+        width: 510px;
         span {
           padding-left: 15px;
         }
         span::before {
           content: "•";
+          padding-right: 10px;
         }
       }
     }

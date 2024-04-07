@@ -25,6 +25,11 @@ const handleChange = (v: string) => {
   } else {
     menuList.value = doctorObjs.hk;
   }
+
+  if (route.path !== "/") {
+    let path = route.path.split("/")[2];
+    router.push(`/${v}/${path}`);
+  }
 };
 
 const menuList: any = ref([]);
@@ -44,6 +49,9 @@ const getScreenWidth = () => {
 };
 
 onMounted(() => {
+  if (window.innerWidth >= 768) {
+    isPc.value = true;
+  }
   window.addEventListener("resize", getScreenWidth);
   window.addEventListener("beforeunload", getScreenWidth);
 });

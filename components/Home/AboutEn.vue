@@ -8,6 +8,9 @@ const getScreenWidth = () => {
 };
 
 onMounted(() => {
+  if (window.innerWidth >= 768) {
+    isPc.value = true;
+  }
   window.addEventListener("resize", getScreenWidth);
   window.addEventListener("beforeunload", getScreenWidth);
 });

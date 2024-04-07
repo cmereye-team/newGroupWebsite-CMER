@@ -53,118 +53,7 @@ onMounted(async () => {
   getCurrentYear();
 });
 
-let data = ref([
-  {
-    id: "147",
-    title: "營收及利潤創上市新高，口岸醫療成業績增長新引擎",
-    ext_uploadFile: "/static/upload/file/20240329/1711693935522246.pdf",
-    ext_date: "2024-03-26 00:00:00",
-  },
-  {
-    id: "88",
-    title:
-      "核心收入增長41%，盈利增長101%眼科業務疫後全面反彈，跨境醫療業務表現亮眼",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2023/09/%E5%B8%8C%E7%91%AA_1H23%E6%A5%AD%E7%B8%BE%E6%96%B0%E8%81%9E%E7%A8%BF.pdf",
-    ext_date: "2023-09-22 00:00:00",
-  },
-  {
-    id: "89",
-    title: "疫情下核心醫療業務保持增長，收入創新高同時躋身深圳民營醫療集團前列",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2023/04/CMER_2022-Annual-Results-Press-Release_TC.pdf",
-    ext_date: "2023-03-01 00:00:00",
-  },
-  {
-    id: "90",
-    title: "希瑪眼科引入中國著名投資人和企業家龔虹嘉先生爲戰略投資者",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/12/%E5%B8%8C%E7%91%AA_%E6%88%B0%E6%8A%95_%E6%96%B0%E8%81%9E%E7%A8%BF-TC.pdf",
-    ext_date: "2022-12-02 00:00:00",
-  },
-  {
-    id: "91",
-    title: "希瑪眼科2022年上半年總收益8.82億港元，按年同比增長近70%",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/09/CMER_1H2022-Interiml-Results-Press-Release_Chi_Final.pdf",
-    ext_date: "2022-08-30 00:00:00",
-  },
-  {
-    id: "92",
-    title: "希瑪2021年收益創新高逾11億港元同比增長59%",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20220329_Chi_Final.pdf",
-    ext_date: "2022-03-29 00:00:00",
-  },
-  {
-    id: "93",
-    title:
-      "希瑪醫療與深圳亞輝龍聯手加大抗疫力度 捐贈基層市民新冠病毒快速檢測包倍增至60萬套",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20220222_Chi_Final.pdf",
-    ext_date: "2022-02-22 00:00:00",
-  },
-  {
-    id: "94",
-    title:
-      "港深攜手同心抗疫希瑪醫療夥同深圳亞輝龍向香港基層市民 捐贈30萬套新冠病毒快速測試包",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20220216_Chi_Final.pdf",
-    ext_date: "2022-02-16 00:00:00",
-  },
-  {
-    id: "95",
-    title: "香港理工大學與希瑪眼科合作於粵港澳大灣區培育香港年輕視光專才",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20211213_Chi_Final.pdf",
-    ext_date: "2021-12-13 00:00:00",
-  },
-  {
-    id: "96",
-    title: "希瑪眼科聯盟愛康健齒科，共同打造灣區醫療大健康合作新標杆",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20210903_Chi_Final.pdf",
-    ext_date: "2021-09-03 00:00:00",
-  },
-  {
-    id: "97",
-    title: "希瑪眼科成立合資公司啟動OK鏡研發及內地註冊",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20210826_Chi_Final.pdf",
-    ext_date: "2021-08-26 00:00:00",
-  },
-  {
-    id: "98",
-    title: "「希瑪香港中西腫瘤中心」正式成立並將於2021年9月開始提供服務",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20210823_Chi_Final.pdf",
-    ext_date: "2021-08-23 00:00:00",
-  },
-  {
-    id: "99",
-    title:
-      "希瑪眼科落實進入佛山、東莞、福州和揭陽 在短期內爲居民提供優質的眼科醫療服務 目標在6至9個月內陸續開業",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20210818_Chi_Final.pdf",
-    ext_date: "2021-08-13 00:00:00",
-  },
-  {
-    id: "100",
-    title:
-      "希瑪眼科2020年業績較去年增長21.4%， 公司發展迅速。香港業務擴展至其他專科， 內地今年將於大灣區新開兩間眼科醫院。",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20210331_Chi_Final.pdf",
-    ext_date: "2021-03-13 00:00:00",
-  },
-  {
-    id: "101",
-    title: "希瑪眼科2020第二季總收入V型反彈，七、八月保持良好恢復勢頭。",
-    ext_uploadFile:
-      "https://admin.cmereye.com/wp-content/uploads/2022/07/20200828_Chi_Final.pdf",
-    ext_date: "2020-08-28 00:00:00",
-  },
-]);
-
+let data = ref([]);
 const optionsData = ref("Year");
 const options = [
   {
@@ -204,10 +93,11 @@ const handleChange = (value: any) => {
   });
   data.value = selecedItem;
 };
+const history = ref(false);
 </script>
 
 <template>
-  <div class="news">
+  <div class="news" v-if="!history">
     <div class="news-title">
       <div>{{ todayYear }}</div>
       <div>
@@ -243,6 +133,15 @@ const handleChange = (value: any) => {
         >
       </div>
     </div>
+    <div class="news-btn">
+      <div @click="history = !history">HISTORICAL DATA</div>
+    </div>
+  </div>
+  <div v-else class="news">
+    <div @click="history = !history" class="news-back">
+      <div>Back</div>
+    </div>
+    <HistoryIndexEn />
   </div>
 </template>
 
@@ -251,6 +150,30 @@ const handleChange = (value: any) => {
   .news {
     max-width: 1140px;
     margin: 100px auto;
+  }
+  .news-btn {
+    display: flex;
+    justify-content: center;
+    & > div {
+      cursor: pointer;
+      padding: 5px 12px;
+      font-size: 20px;
+    }
+    & > div:hover {
+      box-shadow: #51a8dd 1px 1px 1px;
+    }
+  }
+  .news-back {
+    display: flex;
+    margin-bottom: 30px;
+    & > div {
+      cursor: pointer;
+      padding: 5px 12px;
+      font-size: 20px;
+    }
+    & > div:hover {
+      box-shadow: #51a8dd 1px 1px 1px;
+    }
   }
   .news-title {
     display: flex;
@@ -328,6 +251,31 @@ const handleChange = (value: any) => {
 @media screen and (max-width: 767px) {
   .news {
     padding: 30px 15px;
+  }
+  .news-btn {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+    & > div {
+      cursor: pointer;
+      padding: 5px 12px;
+      font-size: 20px;
+    }
+    & > div:hover {
+      box-shadow: #51a8dd 1px 1px 1px;
+    }
+  }
+  .news-back {
+    display: flex;
+    margin-bottom: 30px;
+    & > div {
+      cursor: pointer;
+      padding: 5px 12px;
+      font-size: 20px;
+    }
+    & > div:hover {
+      box-shadow: #51a8dd 1px 1px 1px;
+    }
   }
   .news-title {
     display: flex;

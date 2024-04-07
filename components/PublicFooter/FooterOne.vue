@@ -105,8 +105,13 @@ const getScreenWidth = () => {
 };
 
 onMounted(() => {
+  if (window.innerWidth >= 768) {
+    isPc.value = true;
+  }
   window.addEventListener("resize", getScreenWidth);
-  window.addEventListener("beforeunload", getScreenWidth);
+  window.addEventListener("beforeunload", (event) => {
+    getScreenWidth;
+  });
 });
 </script>
 
@@ -129,6 +134,7 @@ onMounted(() => {
         alt="logo-footer"
       />
     </div>
+    {{ isPc }}
     <div v-if="isPc">
       <nuxt-link
         v-for="item in language == 'hk'
@@ -196,8 +202,8 @@ onMounted(() => {
 }
 @media screen and (max-width: 767px) {
   .FooterOne {
-    &>div:nth-child(1) {
-      &>img {
+    & > div:nth-child(1) {
+      & > img {
         max-width: 100%;
       }
     }
