@@ -20,7 +20,10 @@ async function fetchData() {
         announcementsEn.push({
           id: item.id,
           title: item.title,
-          ext_uploadFile: item.ext_uploadFile,
+          ext_uploadFile:
+            item.ext_uploadFile.split("/")[1] == "static"
+              ? "https://admin.hkcmereye.com" + item.ext_uploadFile
+              : item.ext_uploadFile,
           ext_date: item.ext_date.split(" ")[0],
         });
       });
@@ -113,7 +116,7 @@ const history = ref(false);
       <div>{{ item.ext_date.split(" ")[0] }}</div>
       <div>
         <a
-          :href="`https:///admin.hkcmereye.com${item.ext_uploadFile}`"
+          :href="item.ext_uploadFile"
           target="_blank"
           >{{ item.title }}</a
         >
