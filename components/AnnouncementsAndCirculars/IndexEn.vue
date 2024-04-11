@@ -9,7 +9,7 @@ const announcementsEn: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https:///admin.hkcmereye.com/api.php/list/15")
+  await fetch("https://cmereye.com/backend/api.php/list/15")
     .then((response) => response.json())
     .then((res) => {
       // 清空数组
@@ -22,8 +22,8 @@ async function fetchData() {
           title: item.title,
           ext_uploadFile:
             item.ext_uploadFile.split("/")[1] == "static"
-              ? "https://admin.hkcmereye.com" + item.ext_uploadFile
-              : item.ext_uploadFile,
+              ? "https://cmereye.com/backend" + item.ext_uploadFile
+              : getPath(item.ext_uploadFile),
           ext_date: item.ext_date.split(" ")[0],
         });
       });
@@ -33,7 +33,9 @@ async function fetchData() {
       console.error("Error:", error);
     });
 }
-
+const getPath = (url: string) => {
+  return url.replace(/admin.cmereye.com/g, "cmereye.com");
+};
 // 获取当前年
 const todayYear = ref(0);
 const getCurrentYear = () => {
@@ -115,11 +117,7 @@ const history = ref(false);
     <div v-for="item in data" :key="item.id" class="news-list">
       <div>{{ item.ext_date.split(" ")[0] }}</div>
       <div>
-        <a
-          :href="item.ext_uploadFile"
-          target="_blank"
-          >{{ item.title }}</a
-        >
+        <a :href="item.ext_uploadFile" target="_blank">{{ item.title }}</a>
       </div>
     </div>
   </div>

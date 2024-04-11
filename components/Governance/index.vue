@@ -9,31 +9,45 @@ const governanceList = reactive([
     ico: "",
   },
 ]);
+const imgList = [
+  "https://static.cmereye.com/imgs/2024/04/0378d37979770b4a.png",
+  "https://static.cmereye.com/imgs/2024/04/aed485f604818390.png",
+  "https://static.cmereye.com/imgs/2024/04/d51de1cd67045f52.jpg",
+  "https://static.cmereye.com/imgs/2024/04/56dc9a3ff6512d6c.png",
+  "https://static.cmereye.com/imgs/2024/04/5d7afd246fecbde6.jpg",
+];
 async function fetchData() {
-  await fetch("https:///admin.hkcmereye.com/api.php/list/26")
+  await fetch("https://cmereye.com/backend/api.php/list/26")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组
       governanceList.splice(0, governanceList.length);
       arr.value = data.data;
-      arr.value.map((item:any) => {
+      arr.value.map((item: any) => {
         governanceList.push({
           id: item.id,
           acode: item.acode,
           title: item.title,
-          ext_uploadFile: item.ext_uploadFile,
-          ico: `https:///admin.hkcmereye.com${item.ico}`,
+          ext_uploadFile: `https://cmereye.com/backend/${item.ext_uploadFile}`,
+          ico: `https://cmereye.com${item.ico}`,
         });
       });
-      if (governanceList.length % 2 !== 0) {
-        // 在数组的第二个插入空
-        governanceList.splice(1, 0, { id: 0, acode: "", title: "", ico: "" });
-      }
+      pageData(governanceList);
     })
     .catch((error) => {
       console.error("Error:", error);
     });
 }
+
+const pageData = (governanceList: any[]) => {
+  governanceList.forEach((item: any, index: number) => {
+    item.ico = imgList[index];
+  });
+  if (governanceList.length % 2 !== 0) {
+    // 在数组的第二个插入空
+    governanceList.splice(1, 0, { id: 0, acode: "", title: "", ico: "" });
+  }
+};
 
 onMounted(async () => {
   await fetchData();

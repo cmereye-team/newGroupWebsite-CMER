@@ -1,6 +1,4 @@
 <script lang="ts" setup>
-import { el } from "element-plus/es/locale/index.mjs";
-
 let arr = ref([]);
 const announcements: any = reactive([
   {
@@ -14,7 +12,7 @@ const announcements: any = reactive([
 let data = ref([]);
 
 const fetchData = async () => {
-  await fetch("https:///admin.hkcmereye.com/api.php/list/13")
+  await fetch("https://cmereye.com/backend/api.php/list/13")
     .then((response) => response.json())
     .then((res) => {
       // 清空数组
@@ -27,8 +25,8 @@ const fetchData = async () => {
           title: item.title,
           ext_uploadFile:
             item.ext_uploadFile.split("/")[1] == "static"
-              ? "https://admin.hkcmereye.com" + item.ext_uploadFile
-              : item.ext_uploadFile,
+              ? "https://cmereye.com/backend" + item.ext_uploadFile
+              : getPath(item.ext_uploadFile),
           ext_date: item.ext_date.split(" ")[0],
         });
       });
@@ -38,6 +36,10 @@ const fetchData = async () => {
       console.error("Error:", error);
     });
 };
+
+const getPath= (url:string)=>{
+  return url.replace(/admin.cmereye.com/g, "cmereye.com");
+}
 // 获取当前年
 const todayYear = ref(0);
 const getCurrentYear = () => {

@@ -9,7 +9,7 @@ const awardsList: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https:///admin.hkcmereye.com/api.php/list/17")
+  await fetch("https://cmereye.com/backend/api.php/list/17")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组
@@ -19,7 +19,7 @@ async function fetchData() {
         awardsList.push({
           id: item.id,
           title: item.title,
-          ext_uploadFile: item.ext_uploadFile,
+          ext_uploadFile: getPath(item.ext_uploadFile),
         });
       });
     })
@@ -27,6 +27,9 @@ async function fetchData() {
       console.error("Error:", error);
     });
 }
+const getPath = (url: string) => {
+  return url.replace(/admin.cmereye.com/g, "cmereye.com");
+};
 onMounted(async () => {
   await fetchData();
 });

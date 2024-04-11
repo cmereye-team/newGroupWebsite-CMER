@@ -9,7 +9,7 @@ const awardsListEn: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https:///admin.hkcmereye.com/api.php/list/18")
+  await fetch("https://cmereye.com/backend/api.php/list/18")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组
