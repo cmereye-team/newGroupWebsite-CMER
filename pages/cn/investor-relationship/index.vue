@@ -1,9 +1,9 @@
 <script lang="ts" setup>
 useHead(() => ({
-  title: "投资者关係",
+  title: "环境、社会及治理报告",
 }));
 const bannerBg = `url('https://static.cmereye.com/imgs/2023/01/b2d80bbe8ebf348e.jpg')`;
-const bannerTitle = "投资者关係";
+const bannerTitle = "环境、社会及治理报告";
 </script>
 
 <template>

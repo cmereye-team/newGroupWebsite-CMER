@@ -6,12 +6,12 @@ const yearData = [
     income: "Revenue（HK$1,000）",
     deadline: "Year ended 31 December",
   },
-  {
-    year: "2018",
-    property: "886,849	",
-    income: "429,374",
-    deadline: "",
-  },
+  // {
+  //   year: "2018",
+  //   property: "886,849	",
+  //   income: "429,374",
+  //   deadline: "",
+  // },
   {
     year: "2019",
     property: "1,119,649",
@@ -36,6 +36,12 @@ const yearData = [
     income: "1,731,903",
     deadline: "",
   },
+  {
+    year: "2023",
+    property: "2,748,635",
+    income: "1,923,964",
+    deadline: "",
+  }
 ];
 </script>
 
@@ -59,7 +65,7 @@ const yearData = [
       <h3>Financial Information</h3>
       <div class="container">
         <img
-          src="https://static.cmereye.com/imgs/2024/03/73890803c424c452.png"
+        src="https://static.cmereye.com/imgs/2024/04/e1f30dd41aef2bc4.png"
           alt="Financial Information"
         />
       </div>
