@@ -15,11 +15,11 @@ async function fetchData() {
       // 清空数组
       awardsListEn.splice(0, awardsListEn.length);
       arr.value = data.data;
-      arr.value.map((item:any) => {
+      arr.value.map((item: any) => {
         awardsListEn.push({
           id: item.id,
           title: item.title,
-          ext_uploadFile: item.ext_uploadFile,
+          ext_uploadFile: getPath(item.ext_uploadFile),
         });
       });
     })
@@ -27,6 +27,13 @@ async function fetchData() {
       console.error("Error:", error);
     });
 }
+const getPath = (url: string) => {
+  if (url.split("/")[1] && url.split(".")[1]) {
+    return `https://cmereye.com/backend${url}`;
+  } else {
+    return url.replace(/admin.cmereye.com/g, "cmereye.com");
+  }
+};
 onMounted(async () => {
   await fetchData();
 });

@@ -28,7 +28,11 @@ async function fetchData() {
     });
 }
 const getPath = (url: string) => {
-  return url.replace(/admin.cmereye.com/g, "cmereye.com");
+  if (url.split('/')[1]&&url.split('.')[1]) {
+    return  `https://cmereye.com/backend${url}`;
+  }else {
+    return url.replace(/admin.cmereye.com/g, "cmereye.com");
+  }
 };
 onMounted(async () => {
   await fetchData();
