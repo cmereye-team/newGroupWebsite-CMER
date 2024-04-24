@@ -2,7 +2,7 @@
   <div class="app">
     <PublicHead key="publicHead"  class="publicHead"/>
     
-    <!-- <header>New 444</header> -->
+    <!-- <header>New 444</header> 更新 git 脚本 -->
     <NuxtPage />
     <PublicFooter key="publicFooter" />
   </div>
