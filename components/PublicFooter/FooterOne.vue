@@ -120,17 +120,17 @@ onMounted(() => {
     <div>
       <img
         v-if="language == 'hk'"
-        src="https://static.cmereye.com/imgs/2024/05/17bfe70c5d94bd13.png"
+        src="https://static.cmereye.com/imgs/2024/05/4b994206dbb276ab.png"
         alt="logo-footer"
       />
       <img
         v-else-if="language == 'cn'"
-        src="https://static.cmereye.com/imgs/2024/05/8a13924bb17e3aed.png"
+        src="https://static.cmereye.com/imgs/2024/05/edee0deb28f3cf33.png"
         alt="logo-footer"
       />
       <img
         v-else
-        src="https://static.cmereye.com/imgs/2024/04/5c1a25bbb2f78524.png"
+        src="https://static.cmereye.com/imgs/2024/05/f7339363175aa060.png"
         alt="logo-footer"
       />
     </div>
