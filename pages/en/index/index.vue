@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 useHead(() => ({
-  title: '希瑪眼科醫療控股有限公司 | 希瑪眼科 | 希瑪 | 3309',
+  title: '希瑪醫療控股有限公司| 希瑪眼科 | 希瑪 | 3309',
 }))
 </script>
 

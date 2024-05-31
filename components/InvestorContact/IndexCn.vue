@@ -4,7 +4,7 @@
 <template>
   <div class="enterprise">
     <div>
-      <h2>希玛眼科医疗控股有限公司</h2>
+      <h2>希玛医疗控股有限公司</h2>
     </div>
     <div>
       <h2>地址：</h2>

@@ -120,12 +120,12 @@ onMounted(() => {
     <div>
       <img
         v-if="language == 'hk'"
-        src="https://static.cmereye.com/imgs/2024/03/fbb1a316f8856025.png"
+        src="https://static.cmereye.com/imgs/2024/05/17bfe70c5d94bd13.png"
         alt="logo-footer"
       />
       <img
         v-else-if="language == 'cn'"
-        src="https://static.cmereye.com/imgs/2024/04/dacd69ad77efd8fb.png"
+        src="https://static.cmereye.com/imgs/2024/05/8a13924bb17e3aed.png"
         alt="logo-footer"
       />
       <img
