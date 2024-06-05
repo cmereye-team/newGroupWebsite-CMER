@@ -36,12 +36,12 @@ onMounted(async () => {
   <div class="honor">
     <div class="honor-content">
       <p>
-        希玛凭藉专业至上精神及优质服务，多年来赢得众多奖项，印证了我们的医疗名牌备受社会各界的认同。
+        C-MER has won many awards over the years for its professionalism and quality service, which proves that our medical brand is recognized by all sectors of society.
       </p>
       <div>
         <div class="honor-title">
-          <div>奖项</div>
-          <div>主办机构</div>
+          <div>Awards</div>
+          <div>Organizer</div>
         </div>
         <div v-for="item in honorListEn" :key="item.id">
           <div v-for="(ele, index) in item.ext_awardsTime" :key="index">
