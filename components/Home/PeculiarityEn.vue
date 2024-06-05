@@ -25,10 +25,10 @@
         <div>
           <img
             src="https://static.cmereye.com/imgs/2024/03/58e62966c795736c.png"
-            alt="Network coverage in 11 cities"
+            alt="Network coverage in 10 cities"
           />
         </div>
-        <div><span>Network coverage in 11 cities</span></div>
+        <div><span>Network coverage in 10 cities</span></div>
       </div>
       <div>
         <div>
@@ -161,7 +161,7 @@
       left: -14px;
     }
     & > div:nth-child(3)::after {
-      content: "11";
+      content: "10";
       top: 0;
       right: -14px;
     }

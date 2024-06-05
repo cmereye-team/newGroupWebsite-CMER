@@ -5,7 +5,7 @@ const hospitalList = [
     classify: "Ophthalmology",
     name: ["Hong Kong C-MER Eye Center"],
     link: "https://www.hkcmereye.com",
-    number: 12,
+    number: 11,
     serviceMatter:
       "Basic examinations, consultations, special examinations, treatments and day surgeries, drug prescriptions, optometry and glasses, and surgical interventions",
   },
@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "Ophthalmology",
     name: ["CMER Vision"],
     link: "https://www.cmervision.com/",
-    number: 10,
+    number: 9,
     serviceMatter:
       "	One-stop safe, reliable and targeted eye examinations and vision improvement solutions; children myopia control program",
   },
@@ -49,7 +49,7 @@ const hospitalList = [
     classify: "Dentistry",
     name: ["CMER Dental"],
     link: "https://cmerdental.com/",
-    number: 7,
+    number: 6,
     serviceMatter: "Primary dental care, cosmetic dentistry and advanced dental services",
   },
   {
@@ -66,7 +66,7 @@ const hospitalList = [
     classify: "Medical Aesthetics",
     name: ["AMER"],
     link: "https://ameraesthetics.com/",
-    number: 2,
+    number: 1,
     serviceMatter: "Professional, safe and premier all-round body and facial treatment solutions",
   },
   {
@@ -74,18 +74,18 @@ const hospitalList = [
     classify: "Family Medicine and General Practice",
     name: ["C-MER Medical Clinic"],
     link: "https://cmereye.com/",
-    number: 3,
+    number: 2,
     serviceMatter: "High-quality primary healthcare services including the diagnosis and treatment of common diseases and the care for chronic illnesses.",
   },
-  {
-    id: 10,
-    classify: "Other",
-    name: ["Health Hope International Medical Laboratory Limited"],
-    link: "#",
-    number: 1,
-    serviceMatter:
-      "A local COVID-19 RT-PCR testing center recognized by the Hong Kong Government, it offers safe, convenient and cost-effective testing services.",
-  },
+  // {
+  //   id: 10,
+  //   classify: "Other",
+  //   name: ["Health Hope International Medical Laboratory Limited"],
+  //   link: "#",
+  //   number: 1,
+  //   serviceMatter:
+  //     "A local COVID-19 RT-PCR testing center recognized by the Hong Kong Government, it offers safe, convenient and cost-effective testing services.",
+  // },
 ];
 </script>
 
@@ -99,7 +99,7 @@ const hospitalList = [
         </p>
         <p>
           services. These span from smile refractive, optometry, dentistry,
-          oncology,medical aesthetics, family medicine to medical laboratory.
+          oncology,medical aesthetics to family medicine.
           With its
         </p>
         <p>

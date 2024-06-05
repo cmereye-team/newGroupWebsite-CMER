@@ -5,7 +5,7 @@ const hospitalList = [
     classify: "眼科",
     name: ["希瑪眼科中心"],
     link: "https://www.hkcmereye.com",
-    number: 12,
+    number: 11,
     serviceMatter:
       "基本檢查、診症、特殊檢查、治療及門診手術、藥物處方、驗光配鏡及手術治療",
   },
@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "眼科",
     name: ["希瑪眼科視光中心"],
     link: "https://www.cmervision.com/",
-    number: 10,
+    number: 9,
     serviceMatter:
       "一站式安全、可靠及針對性的眼科檢查服務及改善視力方案，兒童近視控制方案",
   },
@@ -49,7 +49,7 @@ const hospitalList = [
     classify: "牙科",
     name: ["希瑪牙科中心"],
     link: "https://cmerdental.com/",
-    number: 7,
+    number: 6,
     serviceMatter: "基本牙科服務，同時為客人提供美容牙科及高階牙科服務",
   },
   {
@@ -66,7 +66,7 @@ const hospitalList = [
     classify: "醫學美容",
     name: ["愛瑪醫美"],
     link: "https://ameraesthetics.com/",
-    number: 2,
+    number: 1,
     serviceMatter: "專業、安全、優質的全方位身體、面部治療方案",
   },
   {
@@ -74,18 +74,18 @@ const hospitalList = [
     classify: "家庭醫學及普通科",
     name: ["希瑪醫務中心"],
     link: "https://cmereye.com/",
-    number: 3,
+    number: 2,
     serviceMatter: "優質基層醫療保健服務，包括各種常見疾病診治及慢性病管理",
   },
-  {
-    id: 10,
-    classify: "其他",
-    name: ["希華檢測 (國際) 有限公司"],
-    link: "#",
-    number: 1,
-    serviceMatter:
-      "香港政府認可的本地COVID-19 RT-PCR 檢測機構，提供安全、方便及價錢合適的檢測服務",
-  },
+  // {
+  //   id: 10,
+  //   classify: "其他",
+  //   name: ["希華檢測 (國際) 有限公司"],
+  //   link: "#",
+  //   number: 1,
+  //   serviceMatter:
+  //     "香港政府認可的本地COVID-19 RT-PCR 檢測機構，提供安全、方便及價錢合適的檢測服務",
+  // },
 ];
 </script>
 
@@ -96,7 +96,7 @@ const hospitalList = [
         <p>
           希瑪在香港邁進全方位專科服務領域，由核心的眼科中心擴展至矯視中心、視光中心、牙科、腫瘤專科、
         </p>
-        <p>醫學美容、家庭醫學及檢測中心等，為病人提供一站式的專科醫療服務。</p>
+        <p>醫學美容及家庭，為病人提供一站式的專科醫療服務。</p>
       </div>
       <div class="table-table">
         <div class="table-row-title">

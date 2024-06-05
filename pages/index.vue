@@ -16,13 +16,13 @@ const language = useLanguage();
     <HomeBannerCn />
     <HomeAboutCn />
     <HomePeculiarityCn />
-    <HomeLogoWallCn />
+    <HomeLogoWall />
   </div>
   <div v-else>
     <HomeBannerEn />
     <HomeAboutEn />
     <HomePeculiarityEn />
-    <HomeLogoWallEn />
+    <HomeLogoWall />
   </div>
 </template>
 

@@ -26,7 +26,10 @@ const language = useLanguage();
   .pc-logo {
     display: flex;
     align-items: center;
-
+    img {
+      width: 100px;
+      max-width: 100%;
+    }
     .pc-logo-en {
       display: flex;
       flex-direction: column;

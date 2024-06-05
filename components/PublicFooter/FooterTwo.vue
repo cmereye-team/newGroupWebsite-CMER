@@ -4,13 +4,13 @@ const mediaList = [
   {
     id: "1",
     name: "facebook",
-    link: "https://www.facebook.com/cmereyecenter/",
+    link: "https://www.facebook.com/cmermedical/",
     img: "icon-facebook",
   },
   {
     id: "2",
     name: "instagram",
-    link: "https://www.instagram.com/cmer_smile/",
+    link: "https://www.instagram.com/cmermedical/",
     img: "icon-instagram",
   },
   {
@@ -47,7 +47,7 @@ const mediaList = [
         <nuxt-link to="/en/disclamer">Disclaimer</nuxt-link>
         <nuxt-link to="/en/statement">Statement</nuxt-link>
       </div>
-      <div>© 2024 C-MER Eye Care Holdings Limited. All rights reserved.</div>
+      <div>© 2024 C-MER Medical Holdings Limited. All rights reserved.</div>
     </div>
   </div>
 </template>

@@ -46,10 +46,10 @@ const foot_logo = [
     link: "https://www.eonmedicalcentre.com/zh/%E9%97%9C%E6%96%BC%E9%A0%A4%E5%AE%89/",
   },
 
-  {
-    pic: "https://cmereye.com/img/index_footlogo_5.png",
-    link: "https://www.healthhope.hk/",
-  },
+  // {
+  //   pic: "https://cmereye.com/img/index_footlogo_5.png",
+  //   link: "https://www.healthhope.hk/",
+  // },
   {
     pic: "https://cmereye.com/img/HKCCR- NEW Logo.png",
     link: "https://www.hkccr.co/",

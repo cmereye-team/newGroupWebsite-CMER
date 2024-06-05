@@ -22,7 +22,7 @@
     </div>
     <div>
       <h2>本公司網站</h2>
-      <p>www.cmereye.com</p>
+      <p>www.cmermedical.com</p>
     </div>
   </div>
 </template>

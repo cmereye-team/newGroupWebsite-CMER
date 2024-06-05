@@ -111,6 +111,8 @@
     .point_eye:nth-child(4) {
       top: 600px;
       left: 840px;
+      filter: none;
+      background: transparent;
     }
     .point_eye:nth-child(5) {
       top: 680px;
@@ -227,6 +229,8 @@
     .point_eye:nth-child(4) {
       top: 70%;
       left: 82.4%;
+      filter: none;
+      background: transparent;
     }
     .point_eye:nth-child(5) {
       top: 79%;

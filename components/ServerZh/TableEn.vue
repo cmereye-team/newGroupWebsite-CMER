@@ -152,20 +152,20 @@ const hospitalList = [
       "Eye hospital approved by Kunming Municipal Health Commission",
     ],
   },
-  {
-    link: "https://www.fzcmer.com/",
-    name: "C-MER (Fuzhou) Dennis Lam Eye Center",
-    img: "https://cmereye.com/pic/azh_9.jpg",
-    setUpTime: "December 2021",
-    address: ["Zhonggeng Youth Plaza, 83 East Street, Gulou District, Fuzhou"],
-    area: "3,000 ㎡",
-    facility: [
-      "30 hospital beds, 3 laminar flow purified operating rooms that meet international standards",
-    ],
-    feature: [
-      "Asia-Pacific Myopia Society – The Alliance of Prevention and Control of Myopia in Children and Adolescents",
-    ],
-  },
+  // {
+  //   link: "https://www.fzcmer.com/",
+  //   name: "C-MER (Fuzhou) Dennis Lam Eye Center",
+  //   img: "https://cmereye.com/pic/azh_9.jpg",
+  //   setUpTime: "December 2021",
+  //   address: ["Zhonggeng Youth Plaza, 83 East Street, Gulou District, Fuzhou"],
+  //   area: "3,000 ㎡",
+  //   facility: [
+  //     "30 hospital beds, 3 laminar flow purified operating rooms that meet international standards",
+  //   ],
+  //   feature: [
+  //     "Asia-Pacific Myopia Society – The Alliance of Prevention and Control of Myopia in Children and Adolescents",
+  //   ],
+  // },
   {
     link: "https://www.fzcmer.com/",
     name: "C-MER (Jieyang) Dennis Lam Eye Hospital",
@@ -234,7 +234,7 @@ const open = (item: object) => {
           </p>
           <p>
             medical network covers Shenzhen, Beijing, Shanghai, Guangzhou,
-            Kunming, Huizhou and a number of major cities in the GBA. C-MER’s
+            Kunming and a number of major cities in the GBA. C-MER’s
           </p>
           <p>
             high-quality, safe, reliable and affordable healthcare service has

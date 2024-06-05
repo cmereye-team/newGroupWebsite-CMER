@@ -23,9 +23,9 @@ const language = useLanguage();
         <div class="point point_tooth"></div>
         <div class="point point_tooth"></div>
       </div>
-      <div class="point_poly_area">
+      <!-- <div class="point_poly_area">
         <div class="point point_poly" id="map-2"></div>
-      </div>
+      </div> -->
       <div class="point_html">
         <div
           variant="primary"
@@ -125,10 +125,10 @@ const language = useLanguage();
       top: 520px;
       left: 780px;
     }
-    .point_poly:nth-child(1) {
-      top: 520px;
-      left: 665px;
-    }
+    // .point_poly:nth-child(1) {
+    //   top: 520px;
+    //   left: 665px;
+    // }
   }
   .point {
     position: absolute;
@@ -166,20 +166,20 @@ const language = useLanguage();
     top: -6px;
     left: -1px;
   }
-  .point_poly {
-    background: url(../../assets/img/map_gold_point.svg);
-    background-position: center;
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-    top: -10px;
-  }
-  .point_poly::before {
-    background: url(../../assets/img/map_point_woman.svg);
-    background-position: center;
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-    top: -10px;
-  }
+  // .point_poly {
+  //   background: url(../../assets/img/map_gold_point.svg);
+  //   background-position: center;
+  //   background-size: auto 100%;
+  //   background-repeat: no-repeat;
+  //   top: -10px;
+  // }
+  // .point_poly::before {
+  //   background: url(../../assets/img/map_point_woman.svg);
+  //   background-position: center;
+  //   background-size: auto 100%;
+  //   background-repeat: no-repeat;
+  //   top: -10px;
+  // }
   .point:hover {
     transform: scale(2.2) translateY(-20px);
     cursor: pointer;
@@ -247,20 +247,20 @@ const language = useLanguage();
     background-repeat: no-repeat;
     transition: all 0.3s ease;
   }
-  .point_poly {
-    background: url(../../assets/img/map_gold_point.svg);
-    background-position: center;
-    background-size: auto 100% !important ;
-    background-repeat: no-repeat;
-    top: -10px;
-  }
-  .point.point_poly::before {
-    background: url(../../assets/img/map_point_woman.svg);
-    background-position: center;
-    background-size: auto 100%;
-    background-repeat: no-repeat;
-    top: -3px;
-  }
+  // .point_poly {
+  //   background: url(../../assets/img/map_gold_point.svg);
+  //   background-position: center;
+  //   background-size: auto 100% !important ;
+  //   background-repeat: no-repeat;
+  //   top: -10px;
+  // }
+  // .point.point_poly::before {
+  //   background: url(../../assets/img/map_point_woman.svg);
+  //   background-position: center;
+  //   background-size: auto 100%;
+  //   background-repeat: no-repeat;
+  //   top: -3px;
+  // }
   .point_eye_area {
     .point_eye:nth-child(1) {
       top: 20.7%;
@@ -326,12 +326,12 @@ const language = useLanguage();
       left: 70.2%;
     }
   }
-  .point_poly_area {
-    .point_poly:nth-child(1) {
-      top: 46.8%;
-      left: 60%;
-    }
-  }
+  // .point_poly_area {
+  //   .point_poly:nth-child(1) {
+  //     top: 46.8%;
+  //     left: 60%;
+  //   }
+  // }
   .point_html {
     display: none;
   }

@@ -25,10 +25,10 @@
         <div>
           <img
             src="https://static.cmereye.com/imgs/2024/03/58e62966c795736c.png"
-            alt="网络覆盖11个城市"
+            alt="网络覆盖10个城市"
           />
         </div>
-        <div><span>网络覆盖11个城市</span></div>
+        <div><span>网络覆盖10个城市</span></div>
       </div>
       <div>
         <div>
@@ -160,7 +160,7 @@
       left: -14px;
     }
     & > div:nth-child(3)::after {
-      content: "11";
+      content: "10";
       top: 0;
       right: -14px;
     }
