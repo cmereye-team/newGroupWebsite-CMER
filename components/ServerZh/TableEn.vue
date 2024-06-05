@@ -190,7 +190,7 @@ const hospitalList = [
     img: "https://static.cmereye.com/imgs/2024/03/6886bd4bcac5bf75.jpg",
     setUpTime: "2016年1月",
     address: [
-      "1-8F, Area C, Railway Station Building Luohu District, Shenzhen, and 12 clinics located in Luohu, Futian, Nanshan and Bao'an District",
+      "1-8F, Area C, Railway Station Building Luohu District, Shenzhen, and 13 clinics located in Luohu, Futian, Nanshan and Bao'an District",
     ],
     area: "Total floor area of 15,000 ㎡",
     facility: ["20 hospital beds,180 dental treatment chairs"],

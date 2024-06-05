@@ -145,7 +145,7 @@ const hospitalList = [
     img: "https://static.cmereye.com/imgs/2024/03/6886bd4bcac5bf75.jpg",
     setUpTime: "2016年1月",
     address: [
-      "深圳市羅湖火車站大樓 C區1-8樓，另有12家口腔門診部分別設於深圳羅湖，福田，南山及寶安區",
+      "深圳市羅湖火車站大樓 C區1-8樓，另有13家口腔門診部分別設於深圳羅湖，福田，南山及寶安區",
     ],
     area: "總規模達到15,000多平方米 ",
     facility: ["20張病床、 180台牙科綜合治療椅"],
