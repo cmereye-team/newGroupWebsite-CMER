@@ -96,7 +96,7 @@ const hospitalList = [
         <p>
           希瑪在香港邁進全方位專科服務領域，由核心的眼科中心擴展至矯視中心、視光中心、牙科、腫瘤專科、
         </p>
-        <p>醫學美容及家庭，為病人提供一站式的專科醫療服務。</p>
+        <p>醫學美容及家庭醫學，為病人提供一站式的專科醫療服務。</p>
       </div>
       <div class="table-table">
         <div class="table-row-title">
