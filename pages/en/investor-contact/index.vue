@@ -1,15 +1,15 @@
 <script lang="ts" setup>
 useHead(() => ({
-  title: "投資者聯繫",
+  title: "IR Contact",
 }));
 const bannerBg = `url('https://static.cmereye.com/imgs/2023/01/78fe3829dca53880.jpg')`;
-const bannerTitle = "投資者聯繫";
+const bannerTitle = "IR Contact";
 </script>
 
 <template>
   <div class="index">
     <PublicBanner :bannerBg="bannerBg" :bannerTitle="bannerTitle" />
-        <div class="investor-content">
+    <div class="investor-content">
       <InvestorContactIndexEn />
     </div>
   </div>

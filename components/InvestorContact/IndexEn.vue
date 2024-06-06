@@ -4,7 +4,7 @@
 <template>
   <div class="enterprise">
     <div>
-      <h2>C-MER EYE CARE HOLDINGS LIMITED</h2>
+      <h2>C-MER Medical Holdings Limited</h2>
     </div>
     <div>
       <h2>Address:</h2>

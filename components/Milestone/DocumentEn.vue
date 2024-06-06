@@ -4,8 +4,8 @@ const historyLine = [
     year: "2023",
     context: [
       {
-        month: "8",
-        content: ["Fo Shan of Tseung Kwan O C-MER Eye Center "],
+        month: "August",
+        content: ["Opening of FoShan C-MER Dennis Lam Eye Hospital"],
       },
     ],
   },

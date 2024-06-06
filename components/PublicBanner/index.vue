@@ -43,6 +43,7 @@ let bannerBgVal = ref(props.bannerBg);
   .banner-title {
     font-size: 40px;
     color: #fff;
+    letter-spacing: 1px;
   }
 }
 @media screen and (max-width: 767px) {

@@ -130,7 +130,7 @@ onMounted(() => {
       />
       <img
         v-else
-        src="https://static.cmereye.com/imgs/2024/05/f7339363175aa060.png"
+        src="https://static.cmereye.com/imgs/2024/06/6f8f7c60d7b577b3.png"
         alt="logo-footer"
       />
     </div>

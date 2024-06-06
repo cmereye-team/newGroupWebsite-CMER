@@ -5,7 +5,7 @@
   <div class="enterprise">
     <div>
       <h2>Company name</h2>
-      <p>C-MER EYE CARE HOLDINGS LIMITED</p>
+      <p>C-MER Medical Holdings Limited</p>
     </div>
     <div>
       <h2>Registered office</h2>
