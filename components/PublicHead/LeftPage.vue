@@ -13,7 +13,7 @@ const language = useLanguage();
           <span>希玛医疗控股有限公司 </span> <span>(股票代号：3309)</span>
         </div>
         <div v-else class="pc-logo-en">
-          <span>C-MER Medical Holdings Limited.</span
+          <span>C-MER Medical Holdings Limited</span
           ><span>(Stock Code: 3309)</span>
         </div>
       </div>
