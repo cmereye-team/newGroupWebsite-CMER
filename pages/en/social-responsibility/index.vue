@@ -1,9 +1,9 @@
 <script lang="ts" setup>
 useHead(() => ({
-  title: "社會責任",
+  title: "SOCIAL RESPONSIBILITY",
 }));
 const bannerBg = `url('https://static.cmereye.com/imgs/2023/01/910888e1aff0c85e.jpg')`;
-const bannerTitle = "社會責任";
+const bannerTitle = "SOCIAL RESPONSIBILITY";
 </script>
 
 <template>

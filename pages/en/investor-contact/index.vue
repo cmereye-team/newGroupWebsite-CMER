@@ -3,7 +3,7 @@ useHead(() => ({
   title: "IR Contact",
 }));
 const bannerBg = `url('https://static.cmereye.com/imgs/2023/01/78fe3829dca53880.jpg')`;
-const bannerTitle = "IR Contact";
+const bannerTitle = "IR CONTACT";
 </script>
 
 <template>
