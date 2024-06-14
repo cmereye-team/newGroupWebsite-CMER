@@ -188,7 +188,7 @@
         <td>2022-06-01</td>
         <td>
           <a
-            href="https://admin.admin.cmereye.com/wp-content/uploads/2022/06/20220601cn.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2022/06/20220601cn.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -278,7 +278,7 @@
         <td>2022-03-30</td>
         <td>
           <a
-            href="https://admin.admin.cmereye.com/wp-content/uploads/2022/03/CW03309.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2022/03/CW03309.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
