@@ -9,7 +9,7 @@ const awardsListEn: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https://cmereye.com/backend/api.php/list/18")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/18")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组
@@ -29,7 +29,7 @@ async function fetchData() {
 }
 const getPath = (url: string) => {
   if (url.split("/")[1] && url.split(".")[1]) {
-    return `https://cmereye.com/backend${url}`;
+    return `https://www.cmermedical.com/backend${url}`;
   } else {
     return url.replace(/admin.cmereye.com/g, "cmereye.com");
   }

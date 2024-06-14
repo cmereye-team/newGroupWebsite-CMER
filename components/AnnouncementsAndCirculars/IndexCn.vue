@@ -10,7 +10,7 @@ const announcementsCn: any = reactive([
 ]);
 let data = ref([]);
 const fetchData = async () => {
-  await fetch("https://cmereye.com/backend/api.php/list/14")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/14")
     .then((response) => response.json())
     .then((res) => {
       // 清空数组
@@ -22,7 +22,7 @@ const fetchData = async () => {
           title: item.title,
           ext_uploadFile:
             item.ext_uploadFile.split("/")[1] == "static"
-              ? "https://cmereye.com/backend" + item.ext_uploadFile
+              ? "https://www.cmermedical.com/backend" + item.ext_uploadFile
               : getPath(item.ext_uploadFile),
           ext_date: item.ext_date.split(" ")[0],
         });

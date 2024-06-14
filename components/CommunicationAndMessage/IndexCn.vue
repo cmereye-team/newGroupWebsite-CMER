@@ -31,7 +31,7 @@
         </div>
         <div class="a_link">
           公司的所有公司通讯之英文及中文版本同时载于
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank"
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank"
             >公司网站</a
           >
           及
@@ -61,7 +61,7 @@
             >香港《公司条例》</a
           >
           及公司的《组织章程细则》，公司透过
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank"
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank"
             >公司网站</a
           >
           及
@@ -95,7 +95,7 @@
       <div class="content_two">
         <h4 class="a_link">
           当公司在<a
-            href="https://cmereye.com/Investor-Relationship"
+            href="https://www.cmermedical.com/Investor-Relationship"
             target="_blank"
             >公司网站</a
           >刊发公司通讯时:
@@ -121,7 +121,7 @@
         <h4><strong>选择公司通讯之收取方式</strong></h4>
         <div style="">
           在公司于
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank"
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank"
             >公司网站</a
           >
           刊发公司通讯后，如登记股东或非登记股东拟收取相关公司通讯的印刷本，可填写并向公司股份过户登记处提交相关申请表格（见下文）（邮寄至香港湾仔皇后大道东183号合和中心

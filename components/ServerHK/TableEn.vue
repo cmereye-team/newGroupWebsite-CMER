@@ -73,7 +73,7 @@ const hospitalList = [
     id: 9,
     classify: "Family Medicine and General Practice",
     name: ["C-MER Medical Clinic"],
-    link: "https://cmereye.com/",
+    link: "https://www.cmermedical.com/",
     number: 2,
     serviceMatter: "High-quality primary healthcare services including the diagnosis and treatment of common diseases and the care for chronic illnesses.",
   },

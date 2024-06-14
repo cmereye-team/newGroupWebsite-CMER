@@ -9,7 +9,7 @@ const GovernanceListCn: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https://cmereye.com/backend/api.php/list/21")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/21")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组

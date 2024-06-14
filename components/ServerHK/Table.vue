@@ -73,7 +73,7 @@ const hospitalList = [
     id: 9,
     classify: "家庭醫學及普通科",
     name: ["希瑪醫務中心"],
-    link: "https://cmereye.com/",
+    link: "https://www.cmermedical.com/",
     number: 2,
     serviceMatter: "優質基層醫療保健服務，包括各種常見疾病診治及慢性病管理",
   },

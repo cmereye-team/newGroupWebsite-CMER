@@ -9,49 +9,49 @@ const foot_logo = [
     link: "https://smile.hkcmereye.com/",
   },
   {
-    pic: "https://cmereye.com/img/index_footlogo_10.jpg",
+    pic: "https://www.cmermedical.com/img/index_footlogo_10.jpg",
     link: "https://www.cmervision.com/",
   },
   {
-    pic: "https://cmereye.com/img/index_footlogo_3.png",
+    pic: "https://www.cmermedical.com/img/index_footlogo_3.png",
     link: "https://www.cmerdental.com/",
   },
 
   {
-    pic: "https://cmereye.com/img/zhongliu-logo.png",
+    pic: "https://www.cmermedical.com/img/zhongliu-logo.png",
     link: "https://www.cmeroncology.com/",
   },
   {
-    pic: "https://cmereye.com/img/index_footlogo_6.png",
+    pic: "https://www.cmermedical.com/img/index_footlogo_6.png",
     link: "https://championlasik.com/",
   },
   {
-    pic: "https://cmereye.com/img/index_footlogo_7.png",
+    pic: "https://www.cmermedical.com/img/index_footlogo_7.png",
     link: "http://optcentre.com/",
   },
 
   {
-    pic: "https://cmereye.com/img/amerkouq-logo.jpg",
+    pic: "https://www.cmermedical.com/img/amerkouq-logo.jpg",
     link: "http://www.ckj100.com/",
   },
-  { pic: "https://cmereye.com/img/index_footlogo_8.png", link: "" },
-  { pic: "https://cmereye.com/img/index_footlogo_9.png", link: "" },
+  { pic: "https://www.cmermedical.com/img/index_footlogo_8.png", link: "" },
+  { pic: "https://www.cmermedical.com/img/index_footlogo_9.png", link: "" },
 
   {
-    pic: "https://cmereye.com/img/amer-logo.svg",
+    pic: "https://www.cmermedical.com/img/amer-logo.svg",
     link: "https://www.ameraesthetics.com/",
   },
   {
-    pic: "https://cmereye.com/img/eon-dual-dark.jpg",
+    pic: "https://www.cmermedical.com/img/eon-dual-dark.jpg",
     link: "https://www.eonmedicalcentre.com/zh/%E9%97%9C%E6%96%BC%E9%A0%A4%E5%AE%89/",
   },
 
   // {
-  //   pic: "https://cmereye.com/img/index_footlogo_5.png",
+  //   pic: "https://www.cmermedical.com/img/index_footlogo_5.png",
   //   link: "https://www.healthhope.hk/",
   // },
   {
-    pic: "https://cmereye.com/img/HKCCR- NEW Logo.png",
+    pic: "https://www.cmermedical.com/img/HKCCR- NEW Logo.png",
     link: "https://www.hkccr.co/",
   },
 ];

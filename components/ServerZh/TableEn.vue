@@ -155,7 +155,7 @@ const hospitalList = [
   // {
   //   link: "https://www.fzcmer.com/",
   //   name: "C-MER (Fuzhou) Dennis Lam Eye Center",
-  //   img: "https://cmereye.com/pic/azh_9.jpg",
+  //   img: "https://www.cmermedical.com/pic/azh_9.jpg",
   //   setUpTime: "December 2021",
   //   address: ["Zhonggeng Youth Plaza, 83 East Street, Gulou District, Fuzhou"],
   //   area: "3,000 ㎡",

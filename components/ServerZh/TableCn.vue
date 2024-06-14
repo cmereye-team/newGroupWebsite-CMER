@@ -119,7 +119,7 @@ const hospitalList = [
   // {
   //   link: "https://www.fzcmer.com/",
   //   name: "福州希玛林顺潮眼科门诊",
-  //   img: "https://cmereye.com/pic/azh_9.jpg",
+  //   img: "https://www.cmermedical.com/pic/azh_9.jpg",
   //   setUpTime: "2021年12月",
   //   address: ["福州市鼓楼区东街83号 中庚青年广场"],
   //   area: "3,000 平方米",

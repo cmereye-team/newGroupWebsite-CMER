@@ -8,7 +8,7 @@
         <td>2023-12-12</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2024/01/2023121200658_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2024/01/2023121200658_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -20,7 +20,7 @@
         <td>2023-12-01</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2024/01/2023120101432_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2024/01/2023120101432_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -32,7 +32,7 @@
         <td>2023-11-17</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023111700877_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023111700877_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -44,7 +44,7 @@
         <td>2023-11-16</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023111600542_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023111600542_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -56,7 +56,7 @@
         <td>2023-11-15</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023111500559_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023111500559_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -68,7 +68,7 @@
         <td>2023-11-14</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023111401009_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023111401009_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -80,7 +80,7 @@
         <td>2023-11-10</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023111000964_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023111000964_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -92,7 +92,7 @@
         <td>2023-11-09</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023110900477_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023110900477_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -104,7 +104,7 @@
         <td>2023-11-07</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023110700461_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023110700461_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -116,7 +116,7 @@
         <td>2023-11-06</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023110600748_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023110600748_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -128,7 +128,7 @@
         <td>2023-11-03</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2023/11/2023110301633_c.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2023/11/2023110301633_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -140,7 +140,7 @@
         <td>2022-08-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0810.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -152,7 +152,7 @@
         <td>2022-08-02</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0802.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -164,7 +164,7 @@
         <td>2022-07-04</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0705.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -176,7 +176,7 @@
         <td>2022-06-08</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-2022-06-08.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-2022-06-08.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -200,7 +200,7 @@
         <td>2022-05-24</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0524.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0524.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -212,7 +212,7 @@
         <td>2022-04-20</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2022/04/042002.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2022/04/042002.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -227,7 +227,7 @@
         <td>2022-04-20</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2022/04/042001.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2022/04/042001.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -242,7 +242,7 @@
         <td>2022-04-20</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420gu.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420gu.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -254,7 +254,7 @@
         <td>2022-04-20</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420nian.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420nian.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -266,7 +266,7 @@
         <td>2022-04-20</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420zhou.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0420zhou.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -292,7 +292,7 @@
         <td>2022-03-14</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0315.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0315.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -304,7 +304,7 @@
         <td>2022-02-17</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0217.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0217.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -316,7 +316,7 @@
         <td>2022-01-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0127.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0127.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -328,7 +328,7 @@
         <td>2022-01-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0124.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0124.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -340,7 +340,7 @@
         <td>2022-01-13</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0113.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0113.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -352,7 +352,7 @@
         <td>2022-01-11</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0111.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0111.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -364,7 +364,7 @@
         <td>2022-01-05</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0105.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2022-0105.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -378,7 +378,7 @@
         <td>2021-12-17</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1217.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1217.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -390,7 +390,7 @@
         <td>2021-12-14</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1214.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1214.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -402,7 +402,7 @@
         <td>2021-11-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1130.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1130.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -414,7 +414,7 @@
         <td>2021-11-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1125.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1125.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -428,7 +428,7 @@
         <td>2021-11-11</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-20211111.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW-20211111.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -443,7 +443,7 @@
         <td>2021-11-02</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1102.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW2021-1102.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -456,7 +456,7 @@
         <td>2021-11-02</td>
         <td>
           <a
-            href="https://cmereye.com/wp-content/uploads/2022/04/20211102C.pdf"
+            href="https://www.cmermedical.com/wp-content/uploads/2022/04/20211102C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -469,7 +469,7 @@
         <td>2021-09-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/dj-20210927.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/dj-20210927.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -482,7 +482,7 @@
         <td>2021-09-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/fdj-20210927.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/fdj-20210927.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -495,7 +495,7 @@
         <td>2021-09-03</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210903-1.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210903-1.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -509,7 +509,7 @@
         <td>2021-09-03</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210903.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210903.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -522,7 +522,7 @@
         <td>2021-08-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210827.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210827.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -535,7 +535,7 @@
         <td>2021-08-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2021-08-19-CWAnn.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2021-08-19-CWAnn.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -548,7 +548,7 @@
         <td>2021-08-11</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210811_notice of board meeting_04082021.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210811_notice of board meeting_04082021.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -561,7 +561,7 @@
         <td>2021-08-06</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210806.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20210806.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -574,7 +574,7 @@
         <td>2021-07-12</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090714ann.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090714ann.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -586,7 +586,7 @@
         <td>2021-06-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 ESG20.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 ESG20.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -598,7 +598,7 @@
         <td>2021-05-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C20210527.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C20210527.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -610,7 +610,7 @@
         <td>2021-04-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104225.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104225.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -622,7 +622,7 @@
         <td>2021-04-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104224.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104224.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -634,7 +634,7 @@
         <td>2021-04-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104223.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104223.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -646,7 +646,7 @@
         <td>2021-04-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104222.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104222.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -659,7 +659,7 @@
         <td>2021-04-21</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104221.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW202104221.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -672,7 +672,7 @@
         <td>2021-04-01</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090401.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090401.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -684,7 +684,7 @@
         <td>2021-03-16</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW0330903162.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW0330903162.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -696,7 +696,7 @@
         <td>2021-03-16</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090316.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090316.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -708,7 +708,7 @@
         <td>2021-02-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090226.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033090226.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -721,7 +721,7 @@
         <td>2021-02-11</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann0211.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann0211.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -733,7 +733,7 @@
         <td>2021-02-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann0210.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann0210.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -745,7 +745,7 @@
         <td>2020-12-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20201210.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW20201210.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -757,7 +757,7 @@
         <td>2020-11-09</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C1109.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C1109.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -769,7 +769,7 @@
         <td>2020-11-06</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C1107.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C1107.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -781,7 +781,7 @@
         <td>2020-10-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 Non-Registered Shareholders.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 Non-Registered Shareholders.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -793,7 +793,7 @@
         <td>2020-10-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 Registered Shareholders.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 Registered Shareholders.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -805,7 +805,7 @@
         <td>2020-09-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033092.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033092.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -817,7 +817,7 @@
         <td>2020-09-02</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -829,7 +829,7 @@
         <td>2020-08-31</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann11.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann11.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -841,7 +841,7 @@
         <td>2020-08-31</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033099ann.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW033099ann.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -853,7 +853,7 @@
         <td>2020-08-10</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Board Meeting_CW03309ann.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Board Meeting_CW03309ann.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -865,7 +865,7 @@
         <td>2020-08-07</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 ann.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309 ann.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -877,7 +877,7 @@
         <td>2020-06-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002119_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002119_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -889,7 +889,7 @@
         <td>2020-06-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002143_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020063002143_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -901,7 +901,7 @@
         <td>2020-06-23</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020062300660_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -913,7 +913,7 @@
         <td>2020-06-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020061900174_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020061900174_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -925,7 +925,7 @@
         <td>2020-05-22</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020052200641_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020052200641_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -937,7 +937,7 @@
         <td>2020-05-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020051900880_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020051900880_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -949,7 +949,7 @@
         <td>2020-05-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020050402112_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020050402112_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -961,7 +961,7 @@
         <td>2020-05-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020042900240_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020042900240_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -973,7 +973,7 @@
         <td>2020-04-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500845_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500845_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -986,7 +986,7 @@
         <td>2020-04-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500833_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500833_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -999,7 +999,7 @@
         <td>2020-04-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500814_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500814_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1011,7 +1011,7 @@
         <td>2020-04-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500802_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500802_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1023,7 +1023,7 @@
         <td>2020-04-15</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500788_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2020041500788_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1035,7 +1035,7 @@
         <td>2020-02-03</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1048,7 +1048,7 @@
         <td>2019-12-27</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122700686_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122700686_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1060,7 +1060,7 @@
         <td>2019-12-23</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122300482_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122300482_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1072,7 +1072,7 @@
         <td>2019-12-20</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122000932_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019122000932_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1084,7 +1084,7 @@
         <td>2019-11-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019112800807_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019112800807_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1096,7 +1096,7 @@
         <td>2019-11-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019112800796_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019112800796_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1108,7 +1108,7 @@
         <td>2019-10-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019103000914_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019103000914_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1120,7 +1120,7 @@
         <td>2019-09-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019093000490_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/2019093000490_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1132,7 +1132,7 @@
         <td>2019-07-23</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190723549_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1144,7 +1144,7 @@
         <td>2019-07-18</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190718711_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190718711_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1156,7 +1156,7 @@
         <td>2019-07-02</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn201907022795_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn201907022795_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1168,7 +1168,7 @@
         <td>2019-06-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190628812_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190628812_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1181,7 +1181,7 @@
         <td>2019-06-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190625990_c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/ltn20190625990_c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1193,7 +1193,7 @@
         <td>2019-04-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904301054_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904301054_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1205,7 +1205,7 @@
         <td>2019-04-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251493_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251493_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1218,7 +1218,7 @@
         <td>2019-04-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251481_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251481_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1231,7 +1231,7 @@
         <td>2019-04-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251459_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251459_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1243,7 +1243,7 @@
         <td>2019-04-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251443_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251443_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1255,7 +1255,7 @@
         <td>2019-04-25</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251418_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN201904251418_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1267,7 +1267,7 @@
         <td>2019-03-29</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190328790_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190328790_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1279,7 +1279,7 @@
         <td>2019-03-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190326262_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190326262_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1291,7 +1291,7 @@
         <td>2019-03-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190326268_C.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/LTN20190326268_C.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1303,7 +1303,7 @@
         <td>2018-09-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致登記持有人之通知信函及申請表格 - 2018年中期報告之發布通知.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致登記持有人之通知信函及申請表格 - 2018年中期報告之發布通知.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1315,7 +1315,7 @@
         <td>2018-09-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致非登記持有人之通知信函及申請表格 - 2018年中期報告之發布通知.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致非登記持有人之通知信函及申請表格 - 2018年中期報告之發布通知.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1327,7 +1327,7 @@
         <td>2018-08-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann1.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann1.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1339,7 +1339,7 @@
         <td>2018-08-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann2.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CW03309ann2.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1353,7 +1353,7 @@
         <td>2018-08-17</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/盈利警告c.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/盈利警告c.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1365,7 +1365,7 @@
         <td>2018-05-30</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東周年大會結果.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東周年大會結果.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1377,7 +1377,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致非登記持有人之通知信函及申請表格.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致非登記持有人之通知信函及申請表格.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1389,7 +1389,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/回條.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/回條.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1401,7 +1401,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致股東之函件 - 選擇公司通訊文件的語言版本及收取方式.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/致股東之函件 - 選擇公司通訊文件的語言版本及收取方式.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1413,7 +1413,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/選擇公司通訊文件的語言版本及收取方式.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/選擇公司通訊文件的語言版本及收取方式.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1425,7 +1425,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東週年大會通告.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東週年大會通告.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1437,7 +1437,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東週年大會的代表委任表格.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/股東週年大會的代表委任表格.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1449,7 +1449,7 @@
         <td>2018-04-26</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/購回授權及一般授權、建議重選退任董事及股東週年大會通告.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/購回授權及一般授權、建議重選退任董事及股東週年大會通告.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1461,7 +1461,7 @@
         <td>2018-03-28</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CMER 2017_全年業績_中.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/CMER 2017_全年業績_中.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1473,7 +1473,7 @@
         <td>2018-02-07</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/穩定價格行動及穩定價格期結束.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/穩定價格行動及穩定價格期結束.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1485,7 +1485,7 @@
         <td>2018-01-19</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C_03309_A153.pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/C_03309_A153.pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"
@@ -1497,7 +1497,7 @@
         <td>2018-01-12</td>
         <td>
           <a
-            href="https://cmereye.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Allotment Results Announcement (Chi).pdf"
+            href="https://www.cmermedical.com/themes/grouptemplate_zh-hk/Public/assets/pdf/Allotment Results Announcement (Chi).pdf"
             target="_blank"
             rel="nofollow"
             class="table-cell"

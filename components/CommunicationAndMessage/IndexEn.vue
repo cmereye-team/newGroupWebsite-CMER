@@ -32,7 +32,7 @@
           document, a circular and a proxy form.</div>
         <div class="a_link">The English and Chinese versions of all the Company Corporate Communications are available on
           the
-          <a href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company</a>
+          <a href="https://www.cmermedical.com/Investor-Relationship_en" target="_blank">website of the Company</a>
           and the
           <a href="https://www.hkexnews.hk/index.htm" target="_blank">HKEXnews website.</a>
           Shareholders and investors who would like to be notified when the Company publishes its Corporate Communications
@@ -91,7 +91,7 @@
       </div>
       <div class="content_two">
         <h4 class="a_link">Upon posting of Corporate Communication(s) on the <a
-            href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company,</a></h4>
+            href="https://www.cmermedical.com/Investor-Relationship_en" target="_blank">website of the Company,</a></h4>
         <ul>
           <li>the Company will dispatch the Printed Version of the Corporate Communication(s) to the registered
             shareholders' addresses pursuant to their request, or if the Corporate Communication(s) is/are Actionable
@@ -109,7 +109,7 @@
       <div class="content_one">
         <h4><strong>Election of Means of Receipt of Corporate Communications</strong></h4>
         <div class="a_link">Upon publication of Corporate Communication(s) by the Company on the
-          <a href="https://cmereye.com/Investor-Relationship_en" target="_blank">website of the Company</a>, a registered
+          <a href="https://www.cmermedical.com/Investor-Relationship_en" target="_blank">website of the Company</a>, a registered
           shareholder/non-registered shareholder, who wishes to receive the relevant Corporate Communication(s) in printed
           form may complete and submit the relevant Reply Form (see below) to the Company's registrar by post to 17M
           Floor, Hopewell Centre, 183 Queen's Road East, Wan Chai, Hong Kong, or by email to

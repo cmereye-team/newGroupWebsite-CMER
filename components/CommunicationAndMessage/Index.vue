@@ -28,7 +28,7 @@
         <h4><strong>有關公司通訊的要求</strong></h4>
         <div>公司通訊指公司已發出或將予發出以供其任何證券持有人參照或採取行動的任何文件，其中包括但不限於董事會報告及年度賬目連同核數師報告、中期報告、會議通告、上市文件、通函及代表委任表格。</div>
         <div class="a_link">公司的所有公司通訊之英文及中文版本同時載於
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank">公司網站</a>
           及
           <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」網站</a>
           。若股東及投資者擬於公司在
@@ -42,7 +42,7 @@
             target="_blank">《香港聯合交易所有限公司證券上市規則》、</a>
           <a href="https://www.elegislation.gov.hk/" target="_blank">香港《公司條例》</a>
           及公司的《組織章程細則》，公司透過
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站 </a>
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank">公司網站 </a>
           及
           <a href="https://www.hkexnews.hk/index_c.htm" target="_blank">「披露易」網站</a>
           以電子方式向股東提供公司通訊（可供採取行動的公司通訊除外）（「電子版本」）。
@@ -62,7 +62,7 @@
           樓或發送電子郵件至cmereye.ecom@computershare.com.hk，並註明非登記股東的姓名、地址以及收取公司通訊印刷版的要求。</div>
       </div>
       <div class="content_two">
-        <h4 class="a_link">當公司在<a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>刊發公司通訊時:</h4>
+        <h4 class="a_link">當公司在<a href="https://www.cmermedical.com/Investor-Relationship" target="_blank">公司網站</a>刊發公司通訊時:</h4>
         <ul>
           <li>公司將會在以下情況發送公司通訊的印刷本至登記股東的地址︰根據登記股東提出的要求，又或如該公司通訊屬可供採取行動的公司通訊而公司沒有收到登記股東的有效電子郵件地址；</li>
           <li>有關發佈公司通訊的通知將透過電子郵件發送給已提供有效電子郵件地址的登記股東；</li>
@@ -73,7 +73,7 @@
       <div class="content_one">
         <h4><strong>選擇公司通訊之收取方式</strong></h4>
         <div style="">在公司於
-          <a href="https://cmereye.com/Investor-Relationship" target="_blank">公司網站</a>
+          <a href="https://www.cmermedical.com/Investor-Relationship" target="_blank">公司網站</a>
           刊發公司通訊後，如登記股東或非登記股東擬收取相關公司通訊的印刷本，可填寫並向公司股份過戶登記處提交相關申請表格（見下文）（郵寄至香港灣仔皇后大道東183號合和中心
           17M樓或電郵至cmereye.ecom@computershare.com.hk）。
         </div>

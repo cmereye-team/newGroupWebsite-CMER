@@ -8,7 +8,7 @@ const honorListEn = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https://cmereye.com/backend/api.php/list/31")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/31")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组

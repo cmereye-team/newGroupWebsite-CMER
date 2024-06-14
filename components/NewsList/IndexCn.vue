@@ -9,7 +9,7 @@ const newsListCn: any = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https://cmereye.com/backend/api.php/list/23")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/23")
     .then((response) => response.json())
     .then((res) => {
       // 清空数组
@@ -21,7 +21,7 @@ async function fetchData() {
           id: item.id,
           title: item.title,
           ext_uploadFile: item.ext_uploadFile.split("/")[1] == "static"
-              ? "https://cmereye.com/backend" + item.ext_uploadFile
+              ? "https://www.cmermedical.com/backend" + item.ext_uploadFile
               : getPath(item.ext_uploadFile),
           ext_date: item.ext_date.split(" ")[0],
         });

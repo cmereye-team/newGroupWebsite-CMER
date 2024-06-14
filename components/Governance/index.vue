@@ -10,7 +10,7 @@ const governanceList = reactive([
   },
 ]);
 async function fetchData() {
-  await fetch("https://cmereye.com/backend/api.php/list/26")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/26")
     .then((response) => response.json())
     .then((data) => {
       // 清空数组
@@ -21,8 +21,8 @@ async function fetchData() {
           id: item.id,
           acode: item.acode,
           title: item.title,
-          ext_uploadFile: `https://cmereye.com/backend/${item.ext_uploadFile}`,
-          ico: `https://cmereye.com/backend${item.ico}`,
+          ext_uploadFile: `https://www.cmermedical.com/backend/${item.ext_uploadFile}`,
+          ico: `https://www.cmermedical.com/backend${item.ico}`,
         });
       });
       pageData(governanceList);
