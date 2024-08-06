@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "Ophthalmology",
     name: ["CMER Vision"],
     link: "https://www.cmervision.com/",
-    number: 9,
+    number: 10,
     serviceMatter:
       "	One-stop safe, reliable and targeted eye examinations and vision improvement solutions; children myopia control program",
   },

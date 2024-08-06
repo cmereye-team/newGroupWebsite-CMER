@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "眼科",
     name: ["希玛眼科视光中心"],
     link: "https://www.cmervision.com/",
-    number: 9,
+    number: 10,
     serviceMatter:
       "一站式安全、可靠及针对性的眼科检查服务及改善视力方案，儿童近视控制方案",
   },
