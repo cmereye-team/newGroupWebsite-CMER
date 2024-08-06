@@ -4,6 +4,7 @@
 .nuxt
 .nitro
 .cache
+
 dist
 dist.*
 
@@ -13,6 +14,9 @@ node_modules
 # Logs
 logs
 *.log
+
+
+*.zip
 
 # Misc
 .DS_Store
