@@ -5,7 +5,7 @@ const hospitalList = [
     classify: "Ophthalmology",
     name: ["Hong Kong C-MER Eye Center"],
     link: "https://www.hkcmereye.com",
-    number: 11,
+    number: 10,
     serviceMatter:
       "Basic examinations, consultations, special examinations, treatments and day surgeries, drug prescriptions, optometry and glasses, and surgical interventions",
   },
@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "Ophthalmology",
     name: ["CMER Vision"],
     link: "https://www.cmervision.com/",
-    number: 10,
+    number: 9,
     serviceMatter:
       "	One-stop safe, reliable and targeted eye examinations and vision improvement solutions; children myopia control program",
   },

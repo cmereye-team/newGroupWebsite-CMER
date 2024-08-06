@@ -5,7 +5,7 @@ const hospitalList = [
     classify: "眼科",
     name: ["希玛眼科中心"],
     link: "https://www.hkcmereye.com",
-    number: 11,
+    number: 10,
     serviceMatter:
       "基本检查、诊症、特殊检查、治疗及门诊手术、药物处方、验光配镜及手术治疗",
   },
@@ -32,7 +32,7 @@ const hospitalList = [
     classify: "眼科",
     name: ["希玛眼科视光中心"],
     link: "https://www.cmervision.com/",
-    number: 10,
+    number: 9,
     serviceMatter:
       "一站式安全、可靠及针对性的眼科检查服务及改善视力方案，儿童近视控制方案",
   },
