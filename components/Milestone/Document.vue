@@ -1,8 +1,29 @@
 <script setup lang='ts'>
 const historyLine = [
   {
+    year: "2024",
+    context: [
+      {
+        month: "7",
+        content: ["中環ZEISS VISION EXPERT成立 "],
+      },
+      {
+        month: "6",
+        content: ["旺角希瑪微笑矯視中心成立 "],
+      },
+      {
+        month: "5",
+        content: ["銅鑼灣視光師驗眼中心成立 "],
+      },
+    ],
+  },
+  {
     year: "2023",
     context: [
+      {
+        month: "9",
+        content: ["將軍澳視光師驗眼中心成立 "],
+      },
       {
         month: "8",
         content: ["佛山希瑪眼科醫院成立 "],

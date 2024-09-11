@@ -1,8 +1,29 @@
 <script setup lang='ts'>
 const historyLine = [
-{
+  {
+    year: "2024",
+    context: [
+      {
+        month: "July",
+        content: ["Central - ZEISS VISION EXPERT"],
+      },
+      {
+        month: "June",
+        content: ["Mongkok - C-MER Smile Refractive Center "],
+      },
+      {
+        month: "May",
+        content: ["Causeway Bay - The Optometry (OPT) Centre "],
+      },
+    ],
+  },
+  {
     year: "2023",
     context: [
+      {
+        month: "September",
+        content: ["Tseung Kwan O - The Optometry (OPT) Centre "],
+      },
       {
         month: "August",
         content: ["Opening of FoShan C-MER Dennis Lam Eye Hospital"],
@@ -30,11 +51,15 @@ const historyLine = [
       },
       {
         month: "February",
-        content: ["Completed acquisition of controlling equity interests of Shenzhen CKJ"],
+        content: [
+          "Completed acquisition of controlling equity interests of Shenzhen CKJ",
+        ],
       },
       {
         month: "January",
-        content: ["Acquisition of the entire share capital of Hong Kong Champion Eye"],
+        content: [
+          "Acquisition of the entire share capital of Hong Kong Champion Eye",
+        ],
       },
     ],
   },
@@ -112,7 +137,10 @@ const historyLine = [
       },
       {
         month: "January",
-        content: ["Opening of C-MER (Beijing) Dennis Lam Eye Hospital", "C-MER was successfully listed on the SEHK on 15 January"],
+        content: [
+          "Opening of C-MER (Beijing) Dennis Lam Eye Hospital",
+          "C-MER was successfully listed on the SEHK on 15 January",
+        ],
       },
     ],
   },
@@ -152,7 +180,9 @@ const historyLine = [
     context: [
       {
         month: "March",
-        content: ["Opening of C-MER’s first Eye Hospital in Futian, Shenzhen, the PRC"],
+        content: [
+          "Opening of C-MER’s first Eye Hospital in Futian, Shenzhen, the PRC",
+        ],
       },
     ],
   },
@@ -194,7 +224,7 @@ const historyLine = [
     margin: 100px auto;
     position: relative;
   }
-  .document > div:nth-child(6)::before {
+  .document > div:nth-child(1)::before {
     content: "";
     position: absolute;
     bottom: 100%;
