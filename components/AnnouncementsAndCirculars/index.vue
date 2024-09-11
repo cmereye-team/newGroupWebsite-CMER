@@ -9,7 +9,7 @@ const announcements: any = reactive([
   },
 ]);
 
-let data = ref([]);
+let data = ref<any[]>([]);
 
 const fetchData = async () => {
   await fetch("https://www.cmermedical.com/backend/api.php/list/13")
