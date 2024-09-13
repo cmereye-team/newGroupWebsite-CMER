@@ -15,6 +15,10 @@ const historyLine = [
         month: "5",
         content: ["銅鑼灣視光師驗眼中心成立 "],
       },
+      {
+        month: "2",
+        content: ["深圳福田愛康健裕亨口腔診所開業 "],
+      },
     ],
   },
   {

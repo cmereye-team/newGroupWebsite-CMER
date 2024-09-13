@@ -15,6 +15,10 @@ const historyLine = [
         month: "May",
         content: ["Causeway Bay - The Optometry (OPT) Centre "],
       },
+      {
+        month: "Feb",
+        content: ["Opening of Shenzhen Futian C.K.J Yue Heng Dental Clinic"],
+      },
     ],
   },
   {
