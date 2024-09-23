@@ -5,7 +5,7 @@ const foot_logo = [
     link: "https://www.hkcmereye.com/",
   },
   {
-    pic: "https://smile.hkcmereye.com/_nuxt/img/Logo.0b77a8a.svg",
+    pic: "https://static.cmereye.com/imgs/2024/09/fa077d0476c6fb36.jpg",
     link: "https://smile.hkcmereye.com/",
   },
   {
