@@ -8,8 +8,9 @@ const announcementsEn: any = reactive([
     ext_date: "",
   },
 ]);
+let data = ref<any[]>([]);
 async function fetchData() {
-  await fetch("https://www.cmermedical.com/backend/api.php/list/15")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/15/page/1/num/99")
     .then((response) => response.json())
     .then((res) => {
       // 清空数组
@@ -48,7 +49,7 @@ onMounted(async () => {
   getCurrentYear();
 });
 
-let data = ref([]);
+
 const optionsData = ref("Year");
 const options = [
   {

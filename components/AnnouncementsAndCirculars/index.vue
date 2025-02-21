@@ -12,9 +12,10 @@ const announcements: any = reactive([
 let data = ref<any[]>([]);
 
 const fetchData = async () => {
-  await fetch("https://www.cmermedical.com/backend/api.php/list/13")
+  await fetch("https://www.cmermedical.com/backend/api.php/list/13/page/1/num/99")
     .then((response) => response.json())
     .then((res) => {
+      
       // 清空数组
       announcements.splice(0, announcements.length);
       arr.value = res.data;
