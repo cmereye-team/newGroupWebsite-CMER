@@ -1,5 +1,14 @@
 <script setup lang='ts'>
 const historyLine = [
+{
+    year: "2025",
+    context: [
+      {
+        month: "January",
+        content: ["Opening of C+ Health CKJ (Shenzhen) Hospital"],
+      },
+    ],
+  },
   {
     year: "2024",
     context: [

@@ -49,7 +49,7 @@ const hospitalList = [
     classify: "牙科",
     name: ["希瑪牙科中心"],
     link: "https://cmerdental.com/",
-    number: 6,
+    number: 5,
     serviceMatter: "基本牙科服務，同時為客人提供美容牙科及高階牙科服務",
   },
   {

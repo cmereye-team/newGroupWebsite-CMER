@@ -49,7 +49,7 @@ const hospitalList = [
     classify: "Dentistry",
     name: ["CMER Dental"],
     link: "https://cmerdental.com/",
-    number: 6,
+    number: 5,
     serviceMatter: "Primary dental care, cosmetic dentistry and advanced dental services",
   },
   {
